@@ -18,4 +18,4 @@ Após compilar o programa, siga estas etapas para executá-lo:
 ## Resultado
 Como resultado desta atividade, espera-se a execução do tradicional "Hello World!" - um código conhecido por ser o início introdutório em qualquer linguagem de programação. Para comprovar que nosso código foi compilado e executado no ambiente da AWS (conforme solicitado pelo professor), apresentamos a seguinte imagem:
 
-![Lab01a](https://github.com/nicolasmelnik/Laboratorios-SO/assets/117850844/67f63dca-80eb-46ce-a30a-65e643801605)
+![Lab01a](https://github.com/nicolasmelnik/Laboratorios-SO/assets/117850844/453b323c-07ce-47cd-9fc1-bb588eb3ae4d)
