@@ -6,7 +6,7 @@ Este é o README para o "Lab01a - Hello World!", desenvolvido em linguagem C. Es
 
 Para compilar o programa no Linux, siga os passos abaixo:
 1. Abra o terminal.
-2. Navegue até o diretório raiz do projeto.
+2. Navegue até o diretório do projeto.
 3. Execute o seguinte comando para compilar o programa: `gcc -o hello.bin hello.c`. Ele vai gerar um executável chamado hello.bin no diretório atual.
 
 ## Como Executar
