@@ -3,9 +3,9 @@
 Este é o README para o "Lab01a - Hello World!", desenvolvido em linguagem C. Este documento contém instruções detalhadas sobre como compilar, executar e verificar os resultados do programa entregue.
 
 ## Integrantes do grupo 
-- Caio Alexandre V.B. de Andrade, TIA: 32229690.
-- Diego Oliveira Aluizio, TIA: 32247591.
-- Nicolas Fernandes Melnik, TIA: 32241720.
+- Caio Alexandre V.B. de Andrade.
+- Diego Oliveira Aluizio.
+- Nicolas Fernandes Melnik.
 
 ## Como Compilar
 
