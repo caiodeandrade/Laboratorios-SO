@@ -19,4 +19,6 @@ int main() {
     printf("String antes da inserção: %s.\n", str);
     insereCaracter(str, posicao, caractere);
     printf("String após a inserção do caractere '%c' na posição %d: %s.\n", caractere, posicao, str);
+
+    return 0;
 }
