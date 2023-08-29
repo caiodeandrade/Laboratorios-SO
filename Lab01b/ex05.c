@@ -40,7 +40,8 @@ int main() {
 
     printf("Matriz gerada:\n");
     print_matrix(matriz);
-    //multiplicando a linha e coluna 3 por 2 (em forma de cruz)
+    
+    printf("\nMultiplicando a linha 3 e a coluna 3 por 2:\n");
     multiplica_linha(matriz, 2, 2);
     multiplica_coluna(matriz, 2, 2);
   
