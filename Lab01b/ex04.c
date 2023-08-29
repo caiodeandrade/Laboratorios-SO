@@ -2,8 +2,8 @@
 #include <string.h>
 
 int main() {
-    char nome1[7] = "Ziraldo";
-    char nome2[3] = "Ana";
+    char nome1[] = "Ziraldo";
+    char nome2[] = "Ana";
 
     printf("Primeiro nome inserido: Ziraldo\n");
 
