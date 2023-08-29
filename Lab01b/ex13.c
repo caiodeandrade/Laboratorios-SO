@@ -18,4 +18,6 @@ int main() {
     printf("String antes da remoção: %s.\n", str);
     removeCaracter(str, posicao);
     printf("String após a remoção do caracter na posição %d: %s.\n", posicao, str);
+
+    return 0;
 }
