@@ -32,4 +32,6 @@ int main() {
     multiplicaLinhas(matriz, 3, 0, 1);
     printf("Matriz após multiplicar linhas 1 e 2, depois delas serem somadas:\n");
     imprimeMatriz(matriz, 3, 3);
+
+    return 0;
 }
