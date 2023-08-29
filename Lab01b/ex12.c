@@ -18,4 +18,5 @@ int main() {
     } else {
         printf("O caractere não foi encontrado na string.\n");
     }
+    return 0;
 }
