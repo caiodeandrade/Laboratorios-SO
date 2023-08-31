@@ -9,6 +9,7 @@ int main (int argc, char *argv[]) {
         fprintf(stdout, "Usage: %s processes\n", argv[0]);
         return 1;
     }
+    
     n = atoi(argv[1]);
     for (i = 1; i < n; i++)
         if (childpid = fork())
