@@ -1,0 +1,782 @@
+Saldo inicial de 'from': 100
+Saldo inicial de 'to': 100
+
+Thread 6 está em execução
+Transferência FromTo realizada
+Saldo from: 98, saldo to: 102
+
+Thread 7 está em execução
+Transferência ToFrom realizada
+Saldo from: 100, saldo to: 100
+
+Thread 8 está em execução
+Transferência ToFrom realizada
+Saldo from: 102, saldo to: 98
+
+Thread 9 está em execução
+Transferência FromTo realizada
+Saldo from: 100, saldo to: 100
+
+Thread 5 está em execução
+Transferência FromTo realizada
+Saldo from: 98, saldo to: 102
+
+Thread 10 está em execução
+Transferência ToFrom realizada
+Saldo from: 100, saldo to: 100
+
+Thread 11 está em execução
+Transferência FromTo realizada
+Saldo from: 98, saldo to: 102
+
+Thread 12 está em execução
+Transferência FromTo realizada
+Saldo from: 96, saldo to: 104
+
+Thread 13 está em execução
+Transferência ToFrom realizada
+Saldo from: 98, saldo to: 102
+
+Thread 14 está em execução
+Transferência FromTo realizada
+Saldo from: 96, saldo to: 104
+
+Thread 15 está em execução
+Transferência FromTo realizada
+Saldo from: 94, saldo to: 106
+
+Thread 4 está em execução
+Transferência FromTo realizada
+Saldo from: 92, saldo to: 108
+
+Thread 16 está em execução
+Transferência ToFrom realizada
+Saldo from: 94, saldo to: 106
+
+Thread 17 está em execução
+Transferência FromTo realizada
+Saldo from: 92, saldo to: 108
+
+Thread 18 está em execução
+Transferência ToFrom realizada
+Saldo from: 94, saldo to: 106
+
+Thread 19 está em execução
+Transferência ToFrom realizada
+Saldo from: 96, saldo to: 104
+
+Thread 20 está em execução
+Transferência FromTo realizada
+Saldo from: 94, saldo to: 106
+
+Thread 21 está em execução
+Transferência ToFrom realizada
+Saldo from: 96, saldo to: 104
+
+Thread 22 está em execução
+Transferência FromTo realizada
+Saldo from: 94, saldo to: 106
+
+Thread 23 está em execução
+Transferência ToFrom realizada
+Saldo from: 96, saldo to: 104
+
+Thread 3 está em execução
+Transferência FromTo realizada
+Saldo from: 94, saldo to: 106
+
+Thread 24 está em execução
+Transferência ToFrom realizada
+Saldo from: 96, saldo to: 104
+
+Thread 25 está em execução
+Transferência FromTo realizada
+Saldo from: 94, saldo to: 106
+
+Thread 26 está em execução
+Transferência ToFrom realizada
+Saldo from: 96, saldo to: 104
+
+Thread 27 está em execução
+Transferência FromTo realizada
+Saldo from: 94, saldo to: 106
+
+Thread 28 está em execução
+Transferência FromTo realizada
+Saldo from: 92, saldo to: 108
+
+Thread 29 está em execução
+Transferência FromTo realizada
+Saldo from: 90, saldo to: 110
+
+Thread 30 está em execução
+Transferência FromTo realizada
+Saldo from: 88, saldo to: 112
+
+Thread 31 está em execução
+Transferência FromTo realizada
+Saldo from: 86, saldo to: 114
+
+Thread 32 está em execução
+Transferência ToFrom realizada
+Saldo from: 88, saldo to: 112
+
+Thread 33 está em execução
+Transferência FromTo realizada
+Saldo from: 86, saldo to: 114
+
+Thread 34 está em execução
+Transferência FromTo realizada
+Saldo from: 84, saldo to: 116
+
+Thread 35 está em execução
+Transferência FromTo realizada
+Saldo from: 82, saldo to: 118
+
+Thread 36 está em execução
+Transferência ToFrom realizada
+Saldo from: 84, saldo to: 116
+
+Thread 37 está em execução
+Transferência FromTo realizada
+Saldo from: 82, saldo to: 118
+
+Thread 2 está em execução
+Transferência FromTo realizada
+Saldo from: 80, saldo to: 120
+
+Thread 38 está em execução
+Transferência FromTo realizada
+Saldo from: 78, saldo to: 122
+
+Thread 39 está em execução
+Transferência ToFrom realizada
+Saldo from: 80, saldo to: 120
+
+Thread 40 está em execução
+Transferência FromTo realizada
+Saldo from: 78, saldo to: 122
+
+Thread 41 está em execução
+Transferência ToFrom realizada
+Saldo from: 80, saldo to: 120
+
+Thread 42 está em execução
+Transferência ToFrom realizada
+Saldo from: 82, saldo to: 118
+
+Thread 43 está em execução
+Transferência ToFrom realizada
+Saldo from: 84, saldo to: 116
+
+Thread 44 está em execução
+Transferência FromTo realizada
+Saldo from: 82, saldo to: 118
+
+Thread 45 está em execução
+Transferência ToFrom realizada
+Saldo from: 84, saldo to: 116
+
+Thread 46 está em execução
+Transferência ToFrom realizada
+Saldo from: 86, saldo to: 114
+
+Thread 47 está em execução
+Transferência FromTo realizada
+Saldo from: 84, saldo to: 116
+
+Thread 48 está em execução
+Transferência ToFrom realizada
+Saldo from: 86, saldo to: 114
+
+Thread 49 está em execução
+Transferência FromTo realizada
+Saldo from: 84, saldo to: 116
+
+Thread 50 está em execução
+Transferência ToFrom realizada
+Saldo from: 86, saldo to: 114
+
+Thread 51 está em execução
+Transferência FromTo realizada
+Saldo from: 84, saldo to: 116
+
+Thread 52 está em execução
+Transferência FromTo realizada
+Saldo from: 82, saldo to: 118
+
+Thread 53 está em execução
+Transferência FromTo realizada
+Saldo from: 80, saldo to: 120
+
+Thread 54 está em execução
+Transferência FromTo realizada
+Saldo from: 78, saldo to: 122
+
+Thread 55 está em execução
+Transferência FromTo realizada
+Saldo from: 76, saldo to: 124
+
+Thread 56 está em execução
+Transferência ToFrom realizada
+Saldo from: 78, saldo to: 122
+
+Thread 57 está em execução
+Transferência FromTo realizada
+Saldo from: 76, saldo to: 124
+
+Thread 58 está em execução
+Transferência ToFrom realizada
+Saldo from: 78, saldo to: 122
+
+Thread 59 está em execução
+Transferência FromTo realizada
+Saldo from: 76, saldo to: 124
+
+Thread 60 está em execução
+Transferência FromTo realizada
+Saldo from: 74, saldo to: 126
+
+Thread 61 está em execução
+Transferência FromTo realizada
+Saldo from: 72, saldo to: 128
+
+Thread 62 está em execução
+Transferência FromTo realizada
+Saldo from: 70, saldo to: 130
+
+Thread 63 está em execução
+Transferência ToFrom realizada
+Saldo from: 72, saldo to: 128
+
+Thread 64 está em execução
+Transferência FromTo realizada
+Saldo from: 70, saldo to: 130
+
+Thread 65 está em execução
+Transferência ToFrom realizada
+Saldo from: 72, saldo to: 128
+
+Thread 66 está em execução
+Transferência ToFrom realizada
+Saldo from: 74, saldo to: 126
+
+Thread 67 está em execução
+Transferência FromTo realizada
+Saldo from: 72, saldo to: 128
+
+Thread 68 está em execução
+Transferência FromTo realizada
+Saldo from: 70, saldo to: 130
+
+Thread 69 está em execução
+Transferência FromTo realizada
+Saldo from: 68, saldo to: 132
+
+Thread 70 está em execução
+Transferência ToFrom realizada
+Saldo from: 70, saldo to: 130
+
+Thread 71 está em execução
+Transferência FromTo realizada
+Saldo from: 68, saldo to: 132
+
+Thread 72 está em execução
+Transferência FromTo realizada
+Saldo from: 66, saldo to: 134
+
+Thread 73 está em execução
+Transferência ToFrom realizada
+Saldo from: 68, saldo to: 132
+
+Thread 74 está em execução
+Transferência FromTo realizada
+Saldo from: 66, saldo to: 134
+
+Thread 75 está em execução
+Transferência FromTo realizada
+Saldo from: 64, saldo to: 136
+
+Thread 76 está em execução
+Transferência FromTo realizada
+Saldo from: 62, saldo to: 138
+
+Thread 77 está em execução
+Transferência FromTo realizada
+Saldo from: 60, saldo to: 140
+
+Thread 78 está em execução
+Transferência FromTo realizada
+Saldo from: 58, saldo to: 142
+
+Thread 79 está em execução
+Transferência FromTo realizada
+Saldo from: 56, saldo to: 144
+
+Thread 80 está em execução
+Transferência FromTo realizada
+Saldo from: 54, saldo to: 146
+
+Thread 81 está em execução
+Transferência ToFrom realizada
+Saldo from: 56, saldo to: 144
+
+Thread 82 está em execução
+Transferência ToFrom realizada
+Saldo from: 58, saldo to: 142
+
+Thread 83 está em execução
+Transferência FromTo realizada
+Saldo from: 56, saldo to: 144
+
+Thread 84 está em execução
+Transferência ToFrom realizada
+Saldo from: 58, saldo to: 142
+
+Thread 85 está em execução
+Transferência FromTo realizada
+Saldo from: 56, saldo to: 144
+
+Thread 86 está em execução
+Transferência FromTo realizada
+Saldo from: 54, saldo to: 146
+
+Thread 87 está em execução
+Transferência ToFrom realizada
+Saldo from: 56, saldo to: 144
+
+Thread 88 está em execução
+Transferência FromTo realizada
+Saldo from: 54, saldo to: 146
+
+Thread 1 está em execução
+Transferência ToFrom realizada
+Saldo from: 56, saldo to: 144
+
+Thread 93 está em execução
+Transferência FromTo realizada
+Saldo from: 54, saldo to: 146
+
+Thread 94 está em execução
+Transferência FromTo realizada
+Saldo from: 52, saldo to: 148
+
+Thread 95 está em execução
+Transferência FromTo realizada
+Saldo from: 50, saldo to: 150
+
+Thread 96 está em execução
+Transferência FromTo realizada
+Saldo from: 48, saldo to: 152
+
+Thread 97 está em execução
+Transferência FromTo realizada
+Saldo from: 46, saldo to: 154
+
+Thread 98 está em execução
+Transferência FromTo realizada
+Saldo from: 44, saldo to: 156
+
+Thread 99 está em execução
+Transferência FromTo realizada
+Saldo from: 42, saldo to: 158
+
+Thread 92 está em execução
+Transferência FromTo realizada
+Saldo from: 40, saldo to: 160
+
+Thread 91 está em execução
+Transferência FromTo realizada
+Saldo from: 38, saldo to: 162
+
+Thread 0 está em execução
+Transferência FromTo realizada
+Saldo from: 36, saldo to: 164
+
+Thread 90 está em execução
+Transferência ToFrom realizada
+Saldo from: 38, saldo to: 162
+
+Thread 89 está em execução
+Transferência FromTo realizada
+Saldo from: 36, saldo to: 164
+
+Thread 6 está em execução
+Transferência FromTo realizada
+Saldo from: 34, saldo to: 166
+
+Thread 7 está em execução
+Transferência ToFrom realizada
+Saldo from: 36, saldo to: 164
+
+Thread 8 está em execução
+Transferência ToFrom realizada
+Saldo from: 38, saldo to: 162
+
+Thread 9 está em execução
+Transferência FromTo realizada
+Saldo from: 36, saldo to: 164
+
+Thread 10 está em execução
+Transferência ToFrom realizada
+Saldo from: 38, saldo to: 162
+
+Thread 11 está em execução
+Transferência FromTo realizada
+Saldo from: 36, saldo to: 164
+
+Thread 12 está em execução
+Transferência FromTo realizada
+Saldo from: 34, saldo to: 166
+
+Thread 13 está em execução
+Transferência ToFrom realizada
+Saldo from: 36, saldo to: 164
+
+Thread 14 está em execução
+Transferência FromTo realizada
+Saldo from: 34, saldo to: 166
+
+Thread 15 está em execução
+Transferência FromTo realizada
+Saldo from: 32, saldo to: 168
+
+Thread 16 está em execução
+Transferência ToFrom realizada
+Saldo from: 34, saldo to: 166
+
+Thread 17 está em execução
+Transferência FromTo realizada
+Saldo from: 32, saldo to: 168
+
+Thread 18 está em execução
+Transferência ToFrom realizada
+Saldo from: 34, saldo to: 166
+
+Thread 19 está em execução
+Transferência ToFrom realizada
+Saldo from: 36, saldo to: 164
+
+Thread 20 está em execução
+Transferência FromTo realizada
+Saldo from: 34, saldo to: 166
+
+Thread 21 está em execução
+Transferência ToFrom realizada
+Saldo from: 36, saldo to: 164
+
+Thread 22 está em execução
+Transferência FromTo realizada
+Saldo from: 34, saldo to: 166
+
+Thread 23 está em execução
+Transferência ToFrom realizada
+Saldo from: 36, saldo to: 164
+
+Thread 24 está em execução
+Transferência ToFrom realizada
+Saldo from: 38, saldo to: 162
+
+Thread 25 está em execução
+Transferência FromTo realizada
+Saldo from: 36, saldo to: 164
+
+Thread 26 está em execução
+Transferência ToFrom realizada
+Saldo from: 38, saldo to: 162
+
+Thread 27 está em execução
+Transferência FromTo realizada
+Saldo from: 36, saldo to: 164
+
+Thread 28 está em execução
+Transferência FromTo realizada
+Saldo from: 34, saldo to: 166
+
+Thread 29 está em execução
+Transferência FromTo realizada
+Saldo from: 32, saldo to: 168
+
+Thread 30 está em execução
+Transferência FromTo realizada
+Saldo from: 30, saldo to: 170
+
+Thread 31 está em execução
+Transferência FromTo realizada
+Saldo from: 28, saldo to: 172
+
+Thread 32 está em execução
+Transferência ToFrom realizada
+Saldo from: 30, saldo to: 170
+
+Thread 33 está em execução
+Transferência FromTo realizada
+Saldo from: 28, saldo to: 172
+
+Thread 34 está em execução
+Transferência FromTo realizada
+Saldo from: 26, saldo to: 174
+
+Thread 35 está em execução
+Transferência FromTo realizada
+Saldo from: 24, saldo to: 176
+
+Thread 36 está em execução
+Transferência ToFrom realizada
+Saldo from: 26, saldo to: 174
+
+Thread 37 está em execução
+Transferência FromTo realizada
+Saldo from: 24, saldo to: 176
+
+Thread 38 está em execução
+Transferência FromTo realizada
+Saldo from: 22, saldo to: 178
+
+Thread 39 está em execução
+Transferência ToFrom realizada
+Saldo from: 24, saldo to: 176
+
+Thread 40 está em execução
+Transferência FromTo realizada
+Saldo from: 22, saldo to: 178
+
+Thread 41 está em execução
+Transferência ToFrom realizada
+Saldo from: 24, saldo to: 176
+
+Thread 42 está em execução
+Transferência ToFrom realizada
+Saldo from: 26, saldo to: 174
+
+Thread 43 está em execução
+Transferência ToFrom realizada
+Saldo from: 28, saldo to: 172
+
+Thread 44 está em execução
+Transferência FromTo realizada
+Saldo from: 26, saldo to: 174
+
+Thread 45 está em execução
+Transferência ToFrom realizada
+Saldo from: 28, saldo to: 172
+
+Thread 46 está em execução
+Transferência ToFrom realizada
+Saldo from: 30, saldo to: 170
+
+Thread 47 está em execução
+Transferência FromTo realizada
+Saldo from: 28, saldo to: 172
+
+Thread 48 está em execução
+Transferência ToFrom realizada
+Saldo from: 30, saldo to: 170
+
+Thread 49 está em execução
+Transferência FromTo realizada
+Saldo from: 28, saldo to: 172
+
+Thread 50 está em execução
+Transferência ToFrom realizada
+Saldo from: 30, saldo to: 170
+
+Thread 51 está em execução
+Transferência FromTo realizada
+Saldo from: 28, saldo to: 172
+
+Thread 52 está em execução
+Transferência FromTo realizada
+Saldo from: 26, saldo to: 174
+
+Thread 53 está em execução
+Transferência FromTo realizada
+Saldo from: 24, saldo to: 176
+
+Thread 54 está em execução
+Transferência FromTo realizada
+Saldo from: 22, saldo to: 178
+
+Thread 55 está em execução
+Transferência FromTo realizada
+Saldo from: 20, saldo to: 180
+
+Thread 56 está em execução
+Transferência ToFrom realizada
+Saldo from: 22, saldo to: 178
+
+Thread 57 está em execução
+Transferência FromTo realizada
+Saldo from: 20, saldo to: 180
+
+Thread 58 está em execução
+Transferência ToFrom realizada
+Saldo from: 22, saldo to: 178
+
+Thread 59 está em execução
+Transferência FromTo realizada
+Saldo from: 20, saldo to: 180
+
+Thread 60 está em execução
+Transferência FromTo realizada
+Saldo from: 18, saldo to: 182
+
+Thread 61 está em execução
+Transferência FromTo realizada
+Saldo from: 16, saldo to: 184
+
+Thread 62 está em execução
+Transferência FromTo realizada
+Saldo from: 14, saldo to: 186
+
+Thread 5 está em execução
+Transferência FromTo realizada
+Saldo from: 12, saldo to: 188
+
+Thread 63 está em execução
+Transferência ToFrom realizada
+Saldo from: 14, saldo to: 186
+
+Thread 64 está em execução
+Transferência FromTo realizada
+Saldo from: 12, saldo to: 188
+
+Thread 65 está em execução
+Transferência ToFrom realizada
+Saldo from: 14, saldo to: 186
+
+Thread 66 está em execução
+Transferência ToFrom realizada
+Saldo from: 16, saldo to: 184
+
+Thread 67 está em execução
+Transferência FromTo realizada
+Saldo from: 14, saldo to: 186
+
+Thread 68 está em execução
+Transferência FromTo realizada
+Saldo from: 12, saldo to: 188
+
+Thread 69 está em execução
+Transferência FromTo realizada
+Saldo from: 10, saldo to: 190
+
+Thread 70 está em execução
+Transferência ToFrom realizada
+Saldo from: 12, saldo to: 188
+
+Thread 71 está em execução
+Transferência FromTo realizada
+Saldo from: 10, saldo to: 190
+
+Thread 72 está em execução
+Transferência FromTo realizada
+Saldo from: 8, saldo to: 192
+
+Thread 4 está em execução
+Transferência FromTo realizada
+Saldo from: 6, saldo to: 194
+
+Thread 73 está em execução
+Transferência ToFrom realizada
+Saldo from: 8, saldo to: 192
+
+Thread 74 está em execução
+Transferência FromTo realizada
+Saldo from: 6, saldo to: 194
+
+Thread 75 está em execução
+Transferência FromTo realizada
+Saldo from: 4, saldo to: 196
+
+Thread 76 está em execução
+Transferência FromTo realizada
+Saldo from: 2, saldo to: 198
+
+Thread 77 está em execução
+Transferência FromTo realizada
+Saldo from: 0, saldo to: 200
+
+Thread 78 está em execução
+Saldo From já foi zerado
+
+Thread 79 está em execução
+Saldo From já foi zerado
+
+Thread 80 está em execução
+Saldo From já foi zerado
+
+Thread 81 está em execução
+Saldo From já foi zerado
+
+Thread 82 está em execução
+Saldo From já foi zerado
+
+Thread 83 está em execução
+Saldo From já foi zerado
+
+Thread 84 está em execução
+Saldo From já foi zerado
+
+Thread 3 está em execução
+Saldo From já foi zerado
+
+Thread 85 está em execução
+Saldo From já foi zerado
+
+Thread 86 está em execução
+Saldo From já foi zerado
+
+Thread 87 está em execução
+Saldo From já foi zerado
+
+Thread 88 está em execução
+Saldo From já foi zerado
+
+Thread 89 está em execução
+Saldo From já foi zerado
+
+Thread 90 está em execução
+Saldo From já foi zerado
+
+Thread 91 está em execução
+Saldo From já foi zerado
+
+Thread 92 está em execução
+Saldo From já foi zerado
+
+Thread 93 está em execução
+Saldo From já foi zerado
+
+Thread 94 está em execução
+Saldo From já foi zerado
+
+Thread 95 está em execução
+Saldo From já foi zerado
+
+Thread 96 está em execução
+Saldo From já foi zerado
+
+Thread 97 está em execução
+Saldo From já foi zerado
+
+Thread 98 está em execução
+Saldo From já foi zerado
+
+Thread 99 está em execução
+Saldo From já foi zerado
+
+Thread 2 está em execução
+Saldo From já foi zerado
+
+Thread 1 está em execução
+Saldo From já foi zerado
+
+Thread 0 está em execução
+Saldo From já foi zerado
+
+
+Total de transações: 174
+Total de transações from >> to: 112
+Saldo final de 'from': 0
+Saldo final de 'to': 200
