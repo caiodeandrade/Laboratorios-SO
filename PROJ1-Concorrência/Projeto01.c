@@ -34,7 +34,7 @@ int main(int argc, char* argv[]) {
   long thread;
   pthread_t *thread_handles;
 
-  //setando o valor das transferências como 10
+  //setando o valor das transferências como 2
   valor = 2;
 
   // declarando o número de threads
