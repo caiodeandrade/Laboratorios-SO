@@ -1,0 +1,3188 @@
+Saldo inicial de 'from': 100
+Saldo inicial de 'to': 100
+
+Thread 6 está em execução
+Transferência FromTo realizada
+Saldo from: 98, saldo to: 102
+
+Thread 7 está em execução
+Transferência ToFrom realizada
+Saldo from: 100, saldo to: 100
+
+Thread 8 está em execução
+Transferência ToFrom realizada
+Saldo from: 102, saldo to: 98
+
+Thread 9 está em execução
+Transferência FromTo realizada
+Saldo from: 100, saldo to: 100
+
+Thread 10 está em execução
+Transferência ToFrom realizada
+Saldo from: 102, saldo to: 98
+
+Thread 5 está em execução
+Transferência FromTo realizada
+Saldo from: 100, saldo to: 100
+
+Thread 11 está em execução
+Transferência FromTo realizada
+Saldo from: 98, saldo to: 102
+
+Thread 12 está em execução
+Transferência FromTo realizada
+Saldo from: 96, saldo to: 104
+
+Thread 13 está em execução
+Transferência ToFrom realizada
+Saldo from: 98, saldo to: 102
+
+Thread 14 está em execução
+Transferência FromTo realizada
+Saldo from: 96, saldo to: 104
+
+Thread 15 está em execução
+Transferência FromTo realizada
+Saldo from: 94, saldo to: 106
+
+Thread 4 está em execução
+Transferência FromTo realizada
+Saldo from: 92, saldo to: 108
+
+Thread 16 está em execução
+Transferência ToFrom realizada
+Saldo from: 94, saldo to: 106
+
+Thread 17 está em execução
+Transferência FromTo realizada
+Saldo from: 92, saldo to: 108
+
+Thread 18 está em execução
+Transferência ToFrom realizada
+Saldo from: 94, saldo to: 106
+
+Thread 19 está em execução
+Transferência ToFrom realizada
+Saldo from: 96, saldo to: 104
+
+Thread 20 está em execução
+Transferência FromTo realizada
+Saldo from: 94, saldo to: 106
+
+Thread 21 está em execução
+Transferência ToFrom realizada
+Saldo from: 96, saldo to: 104
+
+Thread 22 está em execução
+Transferência FromTo realizada
+Saldo from: 94, saldo to: 106
+
+Thread 3 está em execução
+Transferência FromTo realizada
+Saldo from: 92, saldo to: 108
+
+Thread 23 está em execução
+Transferência ToFrom realizada
+Saldo from: 94, saldo to: 106
+
+Thread 24 está em execução
+Transferência ToFrom realizada
+Saldo from: 96, saldo to: 104
+
+Thread 25 está em execução
+Transferência FromTo realizada
+Saldo from: 94, saldo to: 106
+
+Thread 26 está em execução
+Transferência ToFrom realizada
+Saldo from: 96, saldo to: 104
+
+Thread 27 está em execução
+Transferência FromTo realizada
+Saldo from: 94, saldo to: 106
+
+Thread 28 está em execução
+Transferência FromTo realizada
+Saldo from: 92, saldo to: 108
+
+Thread 29 está em execução
+Transferência FromTo realizada
+Saldo from: 90, saldo to: 110
+
+Thread 30 está em execução
+Transferência FromTo realizada
+Saldo from: 88, saldo to: 112
+
+Thread 31 está em execução
+Transferência FromTo realizada
+Saldo from: 86, saldo to: 114
+
+Thread 32 está em execução
+Transferência ToFrom realizada
+Saldo from: 88, saldo to: 112
+
+Thread 33 está em execução
+Transferência FromTo realizada
+Saldo from: 86, saldo to: 114
+
+Thread 2 está em execução
+Transferência FromTo realizada
+Saldo from: 84, saldo to: 116
+
+Thread 34 está em execução
+Transferência FromTo realizada
+Saldo from: 82, saldo to: 118
+
+Thread 35 está em execução
+Transferência FromTo realizada
+Saldo from: 80, saldo to: 120
+
+Thread 36 está em execução
+Transferência ToFrom realizada
+Saldo from: 82, saldo to: 118
+
+Thread 37 está em execução
+Transferência FromTo realizada
+Saldo from: 80, saldo to: 120
+
+Thread 38 está em execução
+Transferência FromTo realizada
+Saldo from: 78, saldo to: 122
+
+Thread 39 está em execução
+Transferência ToFrom realizada
+Saldo from: 80, saldo to: 120
+
+Thread 40 está em execução
+Transferência FromTo realizada
+Saldo from: 78, saldo to: 122
+
+Thread 41 está em execução
+Transferência ToFrom realizada
+Saldo from: 80, saldo to: 120
+
+Thread 42 está em execução
+Transferência ToFrom realizada
+Saldo from: 82, saldo to: 118
+
+Thread 43 está em execução
+Transferência ToFrom realizada
+Saldo from: 84, saldo to: 116
+
+Thread 44 está em execução
+Transferência FromTo realizada
+Saldo from: 82, saldo to: 118
+
+Thread 45 está em execução
+Transferência ToFrom realizada
+Saldo from: 84, saldo to: 116
+
+Thread 46 está em execução
+Transferência ToFrom realizada
+Saldo from: 86, saldo to: 114
+
+Thread 47 está em execução
+Transferência FromTo realizada
+Saldo from: 84, saldo to: 116
+
+Thread 48 está em execução
+Transferência ToFrom realizada
+Saldo from: 86, saldo to: 114
+
+Thread 49 está em execução
+Transferência FromTo realizada
+Saldo from: 84, saldo to: 116
+
+Thread 50 está em execução
+Transferência ToFrom realizada
+Saldo from: 86, saldo to: 114
+
+Thread 51 está em execução
+Transferência FromTo realizada
+Saldo from: 84, saldo to: 116
+
+Thread 52 está em execução
+Transferência FromTo realizada
+Saldo from: 82, saldo to: 118
+
+Thread 53 está em execução
+Transferência FromTo realizada
+Saldo from: 80, saldo to: 120
+
+Thread 54 está em execução
+Transferência FromTo realizada
+Saldo from: 78, saldo to: 122
+
+Thread 55 está em execução
+Transferência FromTo realizada
+Saldo from: 76, saldo to: 124
+
+Thread 56 está em execução
+Transferência ToFrom realizada
+Saldo from: 78, saldo to: 122
+
+Thread 1 está em execução
+Transferência ToFrom realizada
+Saldo from: 80, saldo to: 120
+
+Thread 57 está em execução
+Transferência FromTo realizada
+Saldo from: 78, saldo to: 122
+
+Thread 58 está em execução
+Transferência ToFrom realizada
+Saldo from: 80, saldo to: 120
+
+Thread 59 está em execução
+Transferência FromTo realizada
+Saldo from: 78, saldo to: 122
+
+Thread 60 está em execução
+Transferência FromTo realizada
+Saldo from: 76, saldo to: 124
+
+Thread 61 está em execução
+Transferência FromTo realizada
+Saldo from: 74, saldo to: 126
+
+Thread 62 está em execução
+Transferência FromTo realizada
+Saldo from: 72, saldo to: 128
+
+Thread 63 está em execução
+Transferência ToFrom realizada
+Saldo from: 74, saldo to: 126
+
+Thread 64 está em execução
+Transferência FromTo realizada
+Saldo from: 72, saldo to: 128
+
+Thread 65 está em execução
+Transferência ToFrom realizada
+Saldo from: 74, saldo to: 126
+
+Thread 66 está em execução
+Transferência ToFrom realizada
+Saldo from: 76, saldo to: 124
+
+Thread 67 está em execução
+Transferência FromTo realizada
+Saldo from: 74, saldo to: 126
+
+Thread 68 está em execução
+Transferência FromTo realizada
+Saldo from: 72, saldo to: 128
+
+Thread 69 está em execução
+Transferência FromTo realizada
+Saldo from: 70, saldo to: 130
+
+Thread 70 está em execução
+Transferência ToFrom realizada
+Saldo from: 72, saldo to: 128
+
+Thread 71 está em execução
+Transferência FromTo realizada
+Saldo from: 70, saldo to: 130
+
+Thread 72 está em execução
+Transferência FromTo realizada
+Saldo from: 68, saldo to: 132
+
+Thread 73 está em execução
+Transferência ToFrom realizada
+Saldo from: 70, saldo to: 130
+
+Thread 74 está em execução
+Transferência FromTo realizada
+Saldo from: 68, saldo to: 132
+
+Thread 75 está em execução
+Transferência FromTo realizada
+Saldo from: 66, saldo to: 134
+
+Thread 76 está em execução
+Transferência FromTo realizada
+Saldo from: 64, saldo to: 136
+
+Thread 77 está em execução
+Transferência FromTo realizada
+Saldo from: 62, saldo to: 138
+
+Thread 78 está em execução
+Transferência FromTo realizada
+Saldo from: 60, saldo to: 140
+
+Thread 79 está em execução
+Transferência FromTo realizada
+Saldo from: 58, saldo to: 142
+
+Thread 80 está em execução
+Transferência FromTo realizada
+Saldo from: 56, saldo to: 144
+
+Thread 81 está em execução
+Transferência ToFrom realizada
+Saldo from: 58, saldo to: 142
+
+Thread 82 está em execução
+Transferência ToFrom realizada
+Saldo from: 60, saldo to: 140
+
+Thread 83 está em execução
+Transferência FromTo realizada
+Saldo from: 58, saldo to: 142
+
+Thread 84 está em execução
+Transferência ToFrom realizada
+Saldo from: 60, saldo to: 140
+
+Thread 85 está em execução
+Transferência FromTo realizada
+Saldo from: 58, saldo to: 142
+
+Thread 86 está em execução
+Transferência FromTo realizada
+Saldo from: 56, saldo to: 144
+
+Thread 87 está em execução
+Transferência ToFrom realizada
+Saldo from: 58, saldo to: 142
+
+Thread 88 está em execução
+Transferência FromTo realizada
+Saldo from: 56, saldo to: 144
+
+Thread 89 está em execução
+Transferência FromTo realizada
+Saldo from: 54, saldo to: 146
+
+Thread 90 está em execução
+Transferência ToFrom realizada
+Saldo from: 56, saldo to: 144
+
+Thread 91 está em execução
+Transferência FromTo realizada
+Saldo from: 54, saldo to: 146
+
+Thread 92 está em execução
+Transferência FromTo realizada
+Saldo from: 52, saldo to: 148
+
+Thread 93 está em execução
+Transferência FromTo realizada
+Saldo from: 50, saldo to: 150
+
+Thread 94 está em execução
+Transferência FromTo realizada
+Saldo from: 48, saldo to: 152
+
+Thread 95 está em execução
+Transferência FromTo realizada
+Saldo from: 46, saldo to: 154
+
+Thread 96 está em execução
+Transferência FromTo realizada
+Saldo from: 44, saldo to: 156
+
+Thread 97 está em execução
+Transferência FromTo realizada
+Saldo from: 42, saldo to: 158
+
+Thread 98 está em execução
+Transferência FromTo realizada
+Saldo from: 40, saldo to: 160
+
+Thread 99 está em execução
+Transferência FromTo realizada
+Saldo from: 38, saldo to: 162
+
+Thread 100 está em execução
+Transferência ToFrom realizada
+Saldo from: 40, saldo to: 160
+
+Thread 101 está em execução
+Transferência ToFrom realizada
+Saldo from: 42, saldo to: 158
+
+Thread 102 está em execução
+Transferência ToFrom realizada
+Saldo from: 44, saldo to: 156
+
+Thread 103 está em execução
+Transferência ToFrom realizada
+Saldo from: 46, saldo to: 154
+
+Thread 104 está em execução
+Transferência ToFrom realizada
+Saldo from: 48, saldo to: 152
+
+Thread 105 está em execução
+Transferência FromTo realizada
+Saldo from: 46, saldo to: 154
+
+Thread 106 está em execução
+Transferência FromTo realizada
+Saldo from: 44, saldo to: 156
+
+Thread 107 está em execução
+Transferência FromTo realizada
+Saldo from: 42, saldo to: 158
+
+Thread 108 está em execução
+Transferência FromTo realizada
+Saldo from: 40, saldo to: 160
+
+Thread 109 está em execução
+Transferência FromTo realizada
+Saldo from: 38, saldo to: 162
+
+Thread 0 está em execução
+Transferência FromTo realizada
+Saldo from: 36, saldo to: 164
+
+Thread 110 está em execução
+Transferência ToFrom realizada
+Saldo from: 38, saldo to: 162
+
+Thread 111 está em execução
+Transferência ToFrom realizada
+Saldo from: 40, saldo to: 160
+
+Thread 112 está em execução
+Transferência FromTo realizada
+Saldo from: 38, saldo to: 162
+
+Thread 113 está em execução
+Transferência ToFrom realizada
+Saldo from: 40, saldo to: 160
+
+Thread 114 está em execução
+Transferência FromTo realizada
+Saldo from: 38, saldo to: 162
+
+Thread 115 está em execução
+Transferência FromTo realizada
+Saldo from: 36, saldo to: 164
+
+Thread 116 está em execução
+Transferência ToFrom realizada
+Saldo from: 38, saldo to: 162
+
+Thread 117 está em execução
+Transferência ToFrom realizada
+Saldo from: 40, saldo to: 160
+
+Thread 118 está em execução
+Transferência FromTo realizada
+Saldo from: 38, saldo to: 162
+
+Thread 119 está em execução
+Transferência FromTo realizada
+Saldo from: 36, saldo to: 164
+
+Thread 120 está em execução
+Transferência FromTo realizada
+Saldo from: 34, saldo to: 166
+
+Thread 121 está em execução
+Transferência FromTo realizada
+Saldo from: 32, saldo to: 168
+
+Thread 122 está em execução
+Transferência FromTo realizada
+Saldo from: 30, saldo to: 170
+
+Thread 123 está em execução
+Transferência FromTo realizada
+Saldo from: 28, saldo to: 172
+
+Thread 124 está em execução
+Transferência ToFrom realizada
+Saldo from: 30, saldo to: 170
+
+Thread 125 está em execução
+Transferência ToFrom realizada
+Saldo from: 32, saldo to: 168
+
+Thread 126 está em execução
+Transferência ToFrom realizada
+Saldo from: 34, saldo to: 166
+
+Thread 127 está em execução
+Transferência FromTo realizada
+Saldo from: 32, saldo to: 168
+
+Thread 128 está em execução
+Transferência ToFrom realizada
+Saldo from: 34, saldo to: 166
+
+Thread 129 está em execução
+Transferência FromTo realizada
+Saldo from: 32, saldo to: 168
+
+Thread 130 está em execução
+Transferência FromTo realizada
+Saldo from: 30, saldo to: 170
+
+Thread 131 está em execução
+Transferência ToFrom realizada
+Saldo from: 32, saldo to: 168
+
+Thread 132 está em execução
+Transferência FromTo realizada
+Saldo from: 30, saldo to: 170
+
+Thread 133 está em execução
+Transferência FromTo realizada
+Saldo from: 28, saldo to: 172
+
+Thread 134 está em execução
+Transferência FromTo realizada
+Saldo from: 26, saldo to: 174
+
+Thread 135 está em execução
+Transferência FromTo realizada
+Saldo from: 24, saldo to: 176
+
+Thread 136 está em execução
+Transferência ToFrom realizada
+Saldo from: 26, saldo to: 174
+
+Thread 137 está em execução
+Transferência FromTo realizada
+Saldo from: 24, saldo to: 176
+
+Thread 138 está em execução
+Transferência FromTo realizada
+Saldo from: 22, saldo to: 178
+
+Thread 139 está em execução
+Transferência FromTo realizada
+Saldo from: 20, saldo to: 180
+
+Thread 140 está em execução
+Transferência FromTo realizada
+Saldo from: 18, saldo to: 182
+
+Thread 141 está em execução
+Transferência ToFrom realizada
+Saldo from: 20, saldo to: 180
+
+Thread 142 está em execução
+Transferência ToFrom realizada
+Saldo from: 22, saldo to: 178
+
+Thread 143 está em execução
+Transferência FromTo realizada
+Saldo from: 20, saldo to: 180
+
+Thread 144 está em execução
+Transferência FromTo realizada
+Saldo from: 18, saldo to: 182
+
+Thread 145 está em execução
+Transferência FromTo realizada
+Saldo from: 16, saldo to: 184
+
+Thread 146 está em execução
+Transferência FromTo realizada
+Saldo from: 14, saldo to: 186
+
+Thread 147 está em execução
+Transferência FromTo realizada
+Saldo from: 12, saldo to: 188
+
+Thread 148 está em execução
+Transferência ToFrom realizada
+Saldo from: 14, saldo to: 186
+
+Thread 149 está em execução
+Transferência ToFrom realizada
+Saldo from: 16, saldo to: 184
+
+Thread 150 está em execução
+Transferência FromTo realizada
+Saldo from: 14, saldo to: 186
+
+Thread 151 está em execução
+Transferência ToFrom realizada
+Saldo from: 16, saldo to: 184
+
+Thread 152 está em execução
+Transferência ToFrom realizada
+Saldo from: 18, saldo to: 182
+
+Thread 153 está em execução
+Transferência FromTo realizada
+Saldo from: 16, saldo to: 184
+
+Thread 154 está em execução
+Transferência FromTo realizada
+Saldo from: 14, saldo to: 186
+
+Thread 155 está em execução
+Transferência ToFrom realizada
+Saldo from: 16, saldo to: 184
+
+Thread 156 está em execução
+Transferência ToFrom realizada
+Saldo from: 18, saldo to: 182
+
+Thread 157 está em execução
+Transferência ToFrom realizada
+Saldo from: 20, saldo to: 180
+
+Thread 158 está em execução
+Transferência FromTo realizada
+Saldo from: 18, saldo to: 182
+
+Thread 159 está em execução
+Transferência FromTo realizada
+Saldo from: 16, saldo to: 184
+
+Thread 160 está em execução
+Transferência FromTo realizada
+Saldo from: 14, saldo to: 186
+
+Thread 161 está em execução
+Transferência FromTo realizada
+Saldo from: 12, saldo to: 188
+
+Thread 162 está em execução
+Transferência ToFrom realizada
+Saldo from: 14, saldo to: 186
+
+Thread 163 está em execução
+Transferência FromTo realizada
+Saldo from: 12, saldo to: 188
+
+Thread 164 está em execução
+Transferência FromTo realizada
+Saldo from: 10, saldo to: 190
+
+Thread 165 está em execução
+Transferência ToFrom realizada
+Saldo from: 12, saldo to: 188
+
+Thread 166 está em execução
+Transferência ToFrom realizada
+Saldo from: 14, saldo to: 186
+
+Thread 167 está em execução
+Transferência FromTo realizada
+Saldo from: 12, saldo to: 188
+
+Thread 168 está em execução
+Transferência ToFrom realizada
+Saldo from: 14, saldo to: 186
+
+Thread 169 está em execução
+Transferência FromTo realizada
+Saldo from: 12, saldo to: 188
+
+Thread 170 está em execução
+Transferência FromTo realizada
+Saldo from: 10, saldo to: 190
+
+Thread 171 está em execução
+Transferência ToFrom realizada
+Saldo from: 12, saldo to: 188
+
+Thread 172 está em execução
+Transferência ToFrom realizada
+Saldo from: 14, saldo to: 186
+
+Thread 173 está em execução
+Transferência FromTo realizada
+Saldo from: 12, saldo to: 188
+
+Thread 174 está em execução
+Transferência FromTo realizada
+Saldo from: 10, saldo to: 190
+
+Thread 175 está em execução
+Transferência FromTo realizada
+Saldo from: 8, saldo to: 192
+
+Thread 176 está em execução
+Transferência FromTo realizada
+Saldo from: 6, saldo to: 194
+
+Thread 177 está em execução
+Transferência FromTo realizada
+Saldo from: 4, saldo to: 196
+
+Thread 178 está em execução
+Transferência FromTo realizada
+Saldo from: 2, saldo to: 198
+
+Thread 179 está em execução
+Transferência FromTo realizada
+Saldo from: 0, saldo to: 200
+
+Thread 180 está em execução
+Saldo From já foi zerado
+
+Thread 181 está em execução
+Saldo From já foi zerado
+
+Thread 182 está em execução
+Saldo From já foi zerado
+
+Thread 183 está em execução
+Saldo From já foi zerado
+
+Thread 184 está em execução
+Saldo From já foi zerado
+
+Thread 185 está em execução
+Saldo From já foi zerado
+
+Thread 186 está em execução
+Saldo From já foi zerado
+
+Thread 187 está em execução
+Saldo From já foi zerado
+
+Thread 188 está em execução
+Saldo From já foi zerado
+
+Thread 189 está em execução
+Saldo From já foi zerado
+
+Thread 190 está em execução
+Saldo From já foi zerado
+
+Thread 191 está em execução
+Saldo From já foi zerado
+
+Thread 192 está em execução
+Saldo From já foi zerado
+
+Thread 193 está em execução
+Saldo From já foi zerado
+
+Thread 194 está em execução
+Saldo From já foi zerado
+
+Thread 195 está em execução
+Saldo From já foi zerado
+
+Thread 196 está em execução
+Saldo From já foi zerado
+
+Thread 197 está em execução
+Saldo From já foi zerado
+
+Thread 198 está em execução
+Saldo From já foi zerado
+
+Thread 199 está em execução
+Saldo From já foi zerado
+
+Thread 200 está em execução
+Saldo From já foi zerado
+
+Thread 201 está em execução
+Saldo From já foi zerado
+
+Thread 202 está em execução
+Saldo From já foi zerado
+
+Thread 203 está em execução
+Saldo From já foi zerado
+
+Thread 204 está em execução
+Saldo From já foi zerado
+
+Thread 205 está em execução
+Saldo From já foi zerado
+
+Thread 206 está em execução
+Saldo From já foi zerado
+
+Thread 207 está em execução
+Saldo From já foi zerado
+
+Thread 208 está em execução
+Saldo From já foi zerado
+
+Thread 209 está em execução
+Saldo From já foi zerado
+
+Thread 210 está em execução
+Saldo From já foi zerado
+
+Thread 211 está em execução
+Saldo From já foi zerado
+
+Thread 212 está em execução
+Saldo From já foi zerado
+
+Thread 213 está em execução
+Saldo From já foi zerado
+
+Thread 214 está em execução
+Saldo From já foi zerado
+
+Thread 215 está em execução
+Saldo From já foi zerado
+
+Thread 216 está em execução
+Saldo From já foi zerado
+
+Thread 217 está em execução
+Saldo From já foi zerado
+
+Thread 218 está em execução
+Saldo From já foi zerado
+
+Thread 219 está em execução
+Saldo From já foi zerado
+
+Thread 220 está em execução
+Saldo From já foi zerado
+
+Thread 221 está em execução
+Saldo From já foi zerado
+
+Thread 222 está em execução
+Saldo From já foi zerado
+
+Thread 223 está em execução
+Saldo From já foi zerado
+
+Thread 224 está em execução
+Saldo From já foi zerado
+
+Thread 225 está em execução
+Saldo From já foi zerado
+
+Thread 226 está em execução
+Saldo From já foi zerado
+
+Thread 227 está em execução
+Saldo From já foi zerado
+
+Thread 228 está em execução
+Saldo From já foi zerado
+
+Thread 229 está em execução
+Saldo From já foi zerado
+
+Thread 230 está em execução
+Saldo From já foi zerado
+
+Thread 231 está em execução
+Saldo From já foi zerado
+
+Thread 232 está em execução
+Saldo From já foi zerado
+
+Thread 233 está em execução
+Saldo From já foi zerado
+
+Thread 234 está em execução
+Saldo From já foi zerado
+
+Thread 235 está em execução
+Saldo From já foi zerado
+
+Thread 236 está em execução
+Saldo From já foi zerado
+
+Thread 237 está em execução
+Saldo From já foi zerado
+
+Thread 238 está em execução
+Saldo From já foi zerado
+
+Thread 239 está em execução
+Saldo From já foi zerado
+
+Thread 240 está em execução
+Saldo From já foi zerado
+
+Thread 241 está em execução
+Saldo From já foi zerado
+
+Thread 242 está em execução
+Saldo From já foi zerado
+
+Thread 243 está em execução
+Saldo From já foi zerado
+
+Thread 244 está em execução
+Saldo From já foi zerado
+
+Thread 245 está em execução
+Saldo From já foi zerado
+
+Thread 246 está em execução
+Saldo From já foi zerado
+
+Thread 247 está em execução
+Saldo From já foi zerado
+
+Thread 248 está em execução
+Saldo From já foi zerado
+
+Thread 249 está em execução
+Saldo From já foi zerado
+
+Thread 250 está em execução
+Saldo From já foi zerado
+
+Thread 251 está em execução
+Saldo From já foi zerado
+
+Thread 252 está em execução
+Saldo From já foi zerado
+
+Thread 253 está em execução
+Saldo From já foi zerado
+
+Thread 254 está em execução
+Saldo From já foi zerado
+
+Thread 255 está em execução
+Saldo From já foi zerado
+
+Thread 256 está em execução
+Saldo From já foi zerado
+
+Thread 257 está em execução
+Saldo From já foi zerado
+
+Thread 258 está em execução
+Saldo From já foi zerado
+
+Thread 259 está em execução
+Saldo From já foi zerado
+
+Thread 260 está em execução
+Saldo From já foi zerado
+
+Thread 261 está em execução
+Saldo From já foi zerado
+
+Thread 262 está em execução
+Saldo From já foi zerado
+
+Thread 263 está em execução
+Saldo From já foi zerado
+
+Thread 264 está em execução
+Saldo From já foi zerado
+
+Thread 265 está em execução
+Saldo From já foi zerado
+
+Thread 266 está em execução
+Saldo From já foi zerado
+
+Thread 267 está em execução
+Saldo From já foi zerado
+
+Thread 268 está em execução
+Saldo From já foi zerado
+
+Thread 269 está em execução
+Saldo From já foi zerado
+
+Thread 270 está em execução
+Saldo From já foi zerado
+
+Thread 271 está em execução
+Saldo From já foi zerado
+
+Thread 272 está em execução
+Saldo From já foi zerado
+
+Thread 273 está em execução
+Saldo From já foi zerado
+
+Thread 274 está em execução
+Saldo From já foi zerado
+
+Thread 275 está em execução
+Saldo From já foi zerado
+
+Thread 276 está em execução
+Saldo From já foi zerado
+
+Thread 277 está em execução
+Saldo From já foi zerado
+
+Thread 278 está em execução
+Saldo From já foi zerado
+
+Thread 279 está em execução
+Saldo From já foi zerado
+
+Thread 280 está em execução
+Saldo From já foi zerado
+
+Thread 281 está em execução
+Saldo From já foi zerado
+
+Thread 282 está em execução
+Saldo From já foi zerado
+
+Thread 283 está em execução
+Saldo From já foi zerado
+
+Thread 284 está em execução
+Saldo From já foi zerado
+
+Thread 285 está em execução
+Saldo From já foi zerado
+
+Thread 286 está em execução
+Saldo From já foi zerado
+
+Thread 287 está em execução
+Saldo From já foi zerado
+
+Thread 288 está em execução
+Saldo From já foi zerado
+
+Thread 289 está em execução
+Saldo From já foi zerado
+
+Thread 290 está em execução
+Saldo From já foi zerado
+
+Thread 291 está em execução
+Saldo From já foi zerado
+
+Thread 292 está em execução
+Saldo From já foi zerado
+
+Thread 293 está em execução
+Saldo From já foi zerado
+
+Thread 294 está em execução
+Saldo From já foi zerado
+
+Thread 295 está em execução
+Saldo From já foi zerado
+
+Thread 296 está em execução
+Saldo From já foi zerado
+
+Thread 297 está em execução
+Saldo From já foi zerado
+
+Thread 298 está em execução
+Saldo From já foi zerado
+
+Thread 299 está em execução
+Saldo From já foi zerado
+
+Thread 300 está em execução
+Saldo From já foi zerado
+
+Thread 301 está em execução
+Saldo From já foi zerado
+
+Thread 302 está em execução
+Saldo From já foi zerado
+
+Thread 303 está em execução
+Saldo From já foi zerado
+
+Thread 304 está em execução
+Saldo From já foi zerado
+
+Thread 305 está em execução
+Saldo From já foi zerado
+
+Thread 306 está em execução
+Saldo From já foi zerado
+
+Thread 307 está em execução
+Saldo From já foi zerado
+
+Thread 308 está em execução
+Saldo From já foi zerado
+
+Thread 309 está em execução
+Saldo From já foi zerado
+
+Thread 310 está em execução
+Saldo From já foi zerado
+
+Thread 311 está em execução
+Saldo From já foi zerado
+
+Thread 312 está em execução
+Saldo From já foi zerado
+
+Thread 313 está em execução
+Saldo From já foi zerado
+
+Thread 314 está em execução
+Saldo From já foi zerado
+
+Thread 315 está em execução
+Saldo From já foi zerado
+
+Thread 316 está em execução
+Saldo From já foi zerado
+
+Thread 317 está em execução
+Saldo From já foi zerado
+
+Thread 318 está em execução
+Saldo From já foi zerado
+
+Thread 319 está em execução
+Saldo From já foi zerado
+
+Thread 320 está em execução
+Saldo From já foi zerado
+
+Thread 321 está em execução
+Saldo From já foi zerado
+
+Thread 322 está em execução
+Saldo From já foi zerado
+
+Thread 323 está em execução
+Saldo From já foi zerado
+
+Thread 324 está em execução
+Saldo From já foi zerado
+
+Thread 325 está em execução
+Saldo From já foi zerado
+
+Thread 326 está em execução
+Saldo From já foi zerado
+
+Thread 327 está em execução
+Saldo From já foi zerado
+
+Thread 328 está em execução
+Saldo From já foi zerado
+
+Thread 329 está em execução
+Saldo From já foi zerado
+
+Thread 330 está em execução
+Saldo From já foi zerado
+
+Thread 331 está em execução
+Saldo From já foi zerado
+
+Thread 332 está em execução
+Saldo From já foi zerado
+
+Thread 333 está em execução
+Saldo From já foi zerado
+
+Thread 334 está em execução
+Saldo From já foi zerado
+
+Thread 335 está em execução
+Saldo From já foi zerado
+
+Thread 336 está em execução
+Saldo From já foi zerado
+
+Thread 337 está em execução
+Saldo From já foi zerado
+
+Thread 338 está em execução
+Saldo From já foi zerado
+
+Thread 339 está em execução
+Saldo From já foi zerado
+
+Thread 340 está em execução
+Saldo From já foi zerado
+
+Thread 341 está em execução
+Saldo From já foi zerado
+
+Thread 342 está em execução
+Saldo From já foi zerado
+
+Thread 343 está em execução
+Saldo From já foi zerado
+
+Thread 344 está em execução
+Saldo From já foi zerado
+
+Thread 345 está em execução
+Saldo From já foi zerado
+
+Thread 346 está em execução
+Saldo From já foi zerado
+
+Thread 347 está em execução
+Saldo From já foi zerado
+
+Thread 348 está em execução
+Saldo From já foi zerado
+
+Thread 349 está em execução
+Saldo From já foi zerado
+
+Thread 350 está em execução
+Saldo From já foi zerado
+
+Thread 351 está em execução
+Saldo From já foi zerado
+
+Thread 352 está em execução
+Saldo From já foi zerado
+
+Thread 353 está em execução
+Saldo From já foi zerado
+
+Thread 354 está em execução
+Saldo From já foi zerado
+
+Thread 355 está em execução
+Saldo From já foi zerado
+
+Thread 356 está em execução
+Saldo From já foi zerado
+
+Thread 357 está em execução
+Saldo From já foi zerado
+
+Thread 358 está em execução
+Saldo From já foi zerado
+
+Thread 359 está em execução
+Saldo From já foi zerado
+
+Thread 360 está em execução
+Saldo From já foi zerado
+
+Thread 361 está em execução
+Saldo From já foi zerado
+
+Thread 362 está em execução
+Saldo From já foi zerado
+
+Thread 363 está em execução
+Saldo From já foi zerado
+
+Thread 364 está em execução
+Saldo From já foi zerado
+
+Thread 365 está em execução
+Saldo From já foi zerado
+
+Thread 366 está em execução
+Saldo From já foi zerado
+
+Thread 367 está em execução
+Saldo From já foi zerado
+
+Thread 368 está em execução
+Saldo From já foi zerado
+
+Thread 369 está em execução
+Saldo From já foi zerado
+
+Thread 370 está em execução
+Saldo From já foi zerado
+
+Thread 371 está em execução
+Saldo From já foi zerado
+
+Thread 372 está em execução
+Saldo From já foi zerado
+
+Thread 373 está em execução
+Saldo From já foi zerado
+
+Thread 374 está em execução
+Saldo From já foi zerado
+
+Thread 375 está em execução
+Saldo From já foi zerado
+
+Thread 376 está em execução
+Saldo From já foi zerado
+
+Thread 377 está em execução
+Saldo From já foi zerado
+
+Thread 378 está em execução
+Saldo From já foi zerado
+
+Thread 379 está em execução
+Saldo From já foi zerado
+
+Thread 380 está em execução
+Saldo From já foi zerado
+
+Thread 381 está em execução
+Saldo From já foi zerado
+
+Thread 382 está em execução
+Saldo From já foi zerado
+
+Thread 383 está em execução
+Saldo From já foi zerado
+
+Thread 384 está em execução
+Saldo From já foi zerado
+
+Thread 385 está em execução
+Saldo From já foi zerado
+
+Thread 386 está em execução
+Saldo From já foi zerado
+
+Thread 387 está em execução
+Saldo From já foi zerado
+
+Thread 388 está em execução
+Saldo From já foi zerado
+
+Thread 389 está em execução
+Saldo From já foi zerado
+
+Thread 390 está em execução
+Saldo From já foi zerado
+
+Thread 391 está em execução
+Saldo From já foi zerado
+
+Thread 392 está em execução
+Saldo From já foi zerado
+
+Thread 393 está em execução
+Saldo From já foi zerado
+
+Thread 394 está em execução
+Saldo From já foi zerado
+
+Thread 395 está em execução
+Saldo From já foi zerado
+
+Thread 396 está em execução
+Saldo From já foi zerado
+
+Thread 397 está em execução
+Saldo From já foi zerado
+
+Thread 398 está em execução
+Saldo From já foi zerado
+
+Thread 399 está em execução
+Saldo From já foi zerado
+
+Thread 400 está em execução
+Saldo From já foi zerado
+
+Thread 401 está em execução
+Saldo From já foi zerado
+
+Thread 402 está em execução
+Saldo From já foi zerado
+
+Thread 403 está em execução
+Saldo From já foi zerado
+
+Thread 404 está em execução
+Saldo From já foi zerado
+
+Thread 405 está em execução
+Saldo From já foi zerado
+
+Thread 406 está em execução
+Saldo From já foi zerado
+
+Thread 407 está em execução
+Saldo From já foi zerado
+
+Thread 408 está em execução
+Saldo From já foi zerado
+
+Thread 409 está em execução
+Saldo From já foi zerado
+
+Thread 410 está em execução
+Saldo From já foi zerado
+
+Thread 411 está em execução
+Saldo From já foi zerado
+
+Thread 412 está em execução
+Saldo From já foi zerado
+
+Thread 413 está em execução
+Saldo From já foi zerado
+
+Thread 414 está em execução
+Saldo From já foi zerado
+
+Thread 415 está em execução
+Saldo From já foi zerado
+
+Thread 416 está em execução
+Saldo From já foi zerado
+
+Thread 417 está em execução
+Saldo From já foi zerado
+
+Thread 418 está em execução
+Saldo From já foi zerado
+
+Thread 419 está em execução
+Saldo From já foi zerado
+
+Thread 420 está em execução
+Saldo From já foi zerado
+
+Thread 421 está em execução
+Saldo From já foi zerado
+
+Thread 422 está em execução
+Saldo From já foi zerado
+
+Thread 423 está em execução
+Saldo From já foi zerado
+
+Thread 424 está em execução
+Saldo From já foi zerado
+
+Thread 425 está em execução
+Saldo From já foi zerado
+
+Thread 426 está em execução
+Saldo From já foi zerado
+
+Thread 427 está em execução
+Saldo From já foi zerado
+
+Thread 428 está em execução
+Saldo From já foi zerado
+
+Thread 429 está em execução
+Saldo From já foi zerado
+
+Thread 430 está em execução
+Saldo From já foi zerado
+
+Thread 431 está em execução
+Saldo From já foi zerado
+
+Thread 432 está em execução
+Saldo From já foi zerado
+
+Thread 433 está em execução
+Saldo From já foi zerado
+
+Thread 434 está em execução
+Saldo From já foi zerado
+
+Thread 435 está em execução
+Saldo From já foi zerado
+
+Thread 436 está em execução
+Saldo From já foi zerado
+
+Thread 437 está em execução
+Saldo From já foi zerado
+
+Thread 438 está em execução
+Saldo From já foi zerado
+
+Thread 439 está em execução
+Saldo From já foi zerado
+
+Thread 440 está em execução
+Saldo From já foi zerado
+
+Thread 441 está em execução
+Saldo From já foi zerado
+
+Thread 442 está em execução
+Saldo From já foi zerado
+
+Thread 443 está em execução
+Saldo From já foi zerado
+
+Thread 444 está em execução
+Saldo From já foi zerado
+
+Thread 445 está em execução
+Saldo From já foi zerado
+
+Thread 446 está em execução
+Saldo From já foi zerado
+
+Thread 447 está em execução
+Saldo From já foi zerado
+
+Thread 448 está em execução
+Saldo From já foi zerado
+
+Thread 449 está em execução
+Saldo From já foi zerado
+
+Thread 450 está em execução
+Saldo From já foi zerado
+
+Thread 451 está em execução
+Saldo From já foi zerado
+
+Thread 452 está em execução
+Saldo From já foi zerado
+
+Thread 453 está em execução
+Saldo From já foi zerado
+
+Thread 454 está em execução
+Saldo From já foi zerado
+
+Thread 455 está em execução
+Saldo From já foi zerado
+
+Thread 456 está em execução
+Saldo From já foi zerado
+
+Thread 457 está em execução
+Saldo From já foi zerado
+
+Thread 458 está em execução
+Saldo From já foi zerado
+
+Thread 459 está em execução
+Saldo From já foi zerado
+
+Thread 460 está em execução
+Saldo From já foi zerado
+
+Thread 461 está em execução
+Saldo From já foi zerado
+
+Thread 462 está em execução
+Saldo From já foi zerado
+
+Thread 463 está em execução
+Saldo From já foi zerado
+
+Thread 464 está em execução
+Saldo From já foi zerado
+
+Thread 465 está em execução
+Saldo From já foi zerado
+
+Thread 466 está em execução
+Saldo From já foi zerado
+
+Thread 467 está em execução
+Saldo From já foi zerado
+
+Thread 468 está em execução
+Saldo From já foi zerado
+
+Thread 469 está em execução
+Saldo From já foi zerado
+
+Thread 470 está em execução
+Saldo From já foi zerado
+
+Thread 471 está em execução
+Saldo From já foi zerado
+
+Thread 472 está em execução
+Saldo From já foi zerado
+
+Thread 473 está em execução
+Saldo From já foi zerado
+
+Thread 474 está em execução
+Saldo From já foi zerado
+
+Thread 475 está em execução
+Saldo From já foi zerado
+
+Thread 476 está em execução
+Saldo From já foi zerado
+
+Thread 477 está em execução
+Saldo From já foi zerado
+
+Thread 478 está em execução
+Saldo From já foi zerado
+
+Thread 479 está em execução
+Saldo From já foi zerado
+
+Thread 480 está em execução
+Saldo From já foi zerado
+
+Thread 481 está em execução
+Saldo From já foi zerado
+
+Thread 482 está em execução
+Saldo From já foi zerado
+
+Thread 483 está em execução
+Saldo From já foi zerado
+
+Thread 484 está em execução
+Saldo From já foi zerado
+
+Thread 485 está em execução
+Saldo From já foi zerado
+
+Thread 486 está em execução
+Saldo From já foi zerado
+
+Thread 487 está em execução
+Saldo From já foi zerado
+
+Thread 488 está em execução
+Saldo From já foi zerado
+
+Thread 489 está em execução
+Saldo From já foi zerado
+
+Thread 490 está em execução
+Saldo From já foi zerado
+
+Thread 491 está em execução
+Saldo From já foi zerado
+
+Thread 492 está em execução
+Saldo From já foi zerado
+
+Thread 493 está em execução
+Saldo From já foi zerado
+
+Thread 494 está em execução
+Saldo From já foi zerado
+
+Thread 495 está em execução
+Saldo From já foi zerado
+
+Thread 496 está em execução
+Saldo From já foi zerado
+
+Thread 497 está em execução
+Saldo From já foi zerado
+
+Thread 498 está em execução
+Saldo From já foi zerado
+
+Thread 499 está em execução
+Saldo From já foi zerado
+
+Thread 500 está em execução
+Saldo From já foi zerado
+
+Thread 501 está em execução
+Saldo From já foi zerado
+
+Thread 502 está em execução
+Saldo From já foi zerado
+
+Thread 503 está em execução
+Saldo From já foi zerado
+
+Thread 504 está em execução
+Saldo From já foi zerado
+
+Thread 505 está em execução
+Saldo From já foi zerado
+
+Thread 506 está em execução
+Saldo From já foi zerado
+
+Thread 507 está em execução
+Saldo From já foi zerado
+
+Thread 508 está em execução
+Saldo From já foi zerado
+
+Thread 509 está em execução
+Saldo From já foi zerado
+
+Thread 510 está em execução
+Saldo From já foi zerado
+
+Thread 511 está em execução
+Saldo From já foi zerado
+
+Thread 512 está em execução
+Saldo From já foi zerado
+
+Thread 513 está em execução
+Saldo From já foi zerado
+
+Thread 514 está em execução
+Saldo From já foi zerado
+
+Thread 515 está em execução
+Saldo From já foi zerado
+
+Thread 516 está em execução
+Saldo From já foi zerado
+
+Thread 517 está em execução
+Saldo From já foi zerado
+
+Thread 518 está em execução
+Saldo From já foi zerado
+
+Thread 519 está em execução
+Saldo From já foi zerado
+
+Thread 520 está em execução
+Saldo From já foi zerado
+
+Thread 521 está em execução
+Saldo From já foi zerado
+
+Thread 522 está em execução
+Saldo From já foi zerado
+
+Thread 523 está em execução
+Saldo From já foi zerado
+
+Thread 524 está em execução
+Saldo From já foi zerado
+
+Thread 525 está em execução
+Saldo From já foi zerado
+
+Thread 526 está em execução
+Saldo From já foi zerado
+
+Thread 527 está em execução
+Saldo From já foi zerado
+
+Thread 528 está em execução
+Saldo From já foi zerado
+
+Thread 529 está em execução
+Saldo From já foi zerado
+
+Thread 530 está em execução
+Saldo From já foi zerado
+
+Thread 531 está em execução
+Saldo From já foi zerado
+
+Thread 532 está em execução
+Saldo From já foi zerado
+
+Thread 533 está em execução
+Saldo From já foi zerado
+
+Thread 534 está em execução
+Saldo From já foi zerado
+
+Thread 535 está em execução
+Saldo From já foi zerado
+
+Thread 536 está em execução
+Saldo From já foi zerado
+
+Thread 537 está em execução
+Saldo From já foi zerado
+
+Thread 538 está em execução
+Saldo From já foi zerado
+
+Thread 539 está em execução
+Saldo From já foi zerado
+
+Thread 540 está em execução
+Saldo From já foi zerado
+
+Thread 541 está em execução
+Saldo From já foi zerado
+
+Thread 542 está em execução
+Saldo From já foi zerado
+
+Thread 543 está em execução
+Saldo From já foi zerado
+
+Thread 544 está em execução
+Saldo From já foi zerado
+
+Thread 545 está em execução
+Saldo From já foi zerado
+
+Thread 546 está em execução
+Saldo From já foi zerado
+
+Thread 547 está em execução
+Saldo From já foi zerado
+
+Thread 548 está em execução
+Saldo From já foi zerado
+
+Thread 549 está em execução
+Saldo From já foi zerado
+
+Thread 550 está em execução
+Saldo From já foi zerado
+
+Thread 551 está em execução
+Saldo From já foi zerado
+
+Thread 552 está em execução
+Saldo From já foi zerado
+
+Thread 553 está em execução
+Saldo From já foi zerado
+
+Thread 554 está em execução
+Saldo From já foi zerado
+
+Thread 555 está em execução
+Saldo From já foi zerado
+
+Thread 556 está em execução
+Saldo From já foi zerado
+
+Thread 557 está em execução
+Saldo From já foi zerado
+
+Thread 558 está em execução
+Saldo From já foi zerado
+
+Thread 559 está em execução
+Saldo From já foi zerado
+
+Thread 560 está em execução
+Saldo From já foi zerado
+
+Thread 561 está em execução
+Saldo From já foi zerado
+
+Thread 562 está em execução
+Saldo From já foi zerado
+
+Thread 563 está em execução
+Saldo From já foi zerado
+
+Thread 564 está em execução
+Saldo From já foi zerado
+
+Thread 565 está em execução
+Saldo From já foi zerado
+
+Thread 566 está em execução
+Saldo From já foi zerado
+
+Thread 567 está em execução
+Saldo From já foi zerado
+
+Thread 568 está em execução
+Saldo From já foi zerado
+
+Thread 569 está em execução
+Saldo From já foi zerado
+
+Thread 570 está em execução
+Saldo From já foi zerado
+
+Thread 571 está em execução
+Saldo From já foi zerado
+
+Thread 572 está em execução
+Saldo From já foi zerado
+
+Thread 573 está em execução
+Saldo From já foi zerado
+
+Thread 574 está em execução
+Saldo From já foi zerado
+
+Thread 575 está em execução
+Saldo From já foi zerado
+
+Thread 576 está em execução
+Saldo From já foi zerado
+
+Thread 577 está em execução
+Saldo From já foi zerado
+
+Thread 578 está em execução
+Saldo From já foi zerado
+
+Thread 579 está em execução
+Saldo From já foi zerado
+
+Thread 580 está em execução
+Saldo From já foi zerado
+
+Thread 581 está em execução
+Saldo From já foi zerado
+
+Thread 582 está em execução
+Saldo From já foi zerado
+
+Thread 583 está em execução
+Saldo From já foi zerado
+
+Thread 584 está em execução
+Saldo From já foi zerado
+
+Thread 585 está em execução
+Saldo From já foi zerado
+
+Thread 586 está em execução
+Saldo From já foi zerado
+
+Thread 587 está em execução
+Saldo From já foi zerado
+
+Thread 588 está em execução
+Saldo From já foi zerado
+
+Thread 589 está em execução
+Saldo From já foi zerado
+
+Thread 590 está em execução
+Saldo From já foi zerado
+
+Thread 591 está em execução
+Saldo From já foi zerado
+
+Thread 592 está em execução
+Saldo From já foi zerado
+
+Thread 593 está em execução
+Saldo From já foi zerado
+
+Thread 594 está em execução
+Saldo From já foi zerado
+
+Thread 596 está em execução
+Saldo From já foi zerado
+
+Thread 597 está em execução
+Saldo From já foi zerado
+
+Thread 598 está em execução
+Saldo From já foi zerado
+
+Thread 599 está em execução
+Saldo From já foi zerado
+
+Thread 600 está em execução
+Saldo From já foi zerado
+
+Thread 601 está em execução
+Saldo From já foi zerado
+
+Thread 602 está em execução
+Saldo From já foi zerado
+
+Thread 603 está em execução
+Saldo From já foi zerado
+
+Thread 595 está em execução
+Saldo From já foi zerado
+
+Thread 604 está em execução
+Saldo From já foi zerado
+
+Thread 605 está em execução
+Saldo From já foi zerado
+
+Thread 606 está em execução
+Saldo From já foi zerado
+
+Thread 607 está em execução
+Saldo From já foi zerado
+
+Thread 608 está em execução
+Saldo From já foi zerado
+
+Thread 615 está em execução
+Saldo From já foi zerado
+
+Thread 616 está em execução
+Saldo From já foi zerado
+
+Thread 617 está em execução
+Saldo From já foi zerado
+
+Thread 618 está em execução
+Saldo From já foi zerado
+
+Thread 614 está em execução
+Saldo From já foi zerado
+
+Thread 619 está em execução
+Saldo From já foi zerado
+
+Thread 620 está em execução
+Saldo From já foi zerado
+
+Thread 621 está em execução
+Saldo From já foi zerado
+
+Thread 622 está em execução
+Saldo From já foi zerado
+
+Thread 623 está em execução
+Saldo From já foi zerado
+
+Thread 613 está em execução
+Saldo From já foi zerado
+
+Thread 624 está em execução
+Saldo From já foi zerado
+
+Thread 625 está em execução
+Saldo From já foi zerado
+
+Thread 626 está em execução
+Saldo From já foi zerado
+
+Thread 627 está em execução
+Saldo From já foi zerado
+
+Thread 628 está em execução
+Saldo From já foi zerado
+
+Thread 629 está em execução
+Saldo From já foi zerado
+
+Thread 630 está em execução
+Saldo From já foi zerado
+
+Thread 631 está em execução
+Saldo From já foi zerado
+
+Thread 632 está em execução
+Saldo From já foi zerado
+
+Thread 612 está em execução
+Saldo From já foi zerado
+
+Thread 633 está em execução
+Saldo From já foi zerado
+
+Thread 634 está em execução
+Saldo From já foi zerado
+
+Thread 635 está em execução
+Saldo From já foi zerado
+
+Thread 636 está em execução
+Saldo From já foi zerado
+
+Thread 637 está em execução
+Saldo From já foi zerado
+
+Thread 638 está em execução
+Saldo From já foi zerado
+
+Thread 639 está em execução
+Saldo From já foi zerado
+
+Thread 640 está em execução
+Saldo From já foi zerado
+
+Thread 641 está em execução
+Saldo From já foi zerado
+
+Thread 642 está em execução
+Saldo From já foi zerado
+
+Thread 643 está em execução
+Saldo From já foi zerado
+
+Thread 644 está em execução
+Saldo From já foi zerado
+
+Thread 645 está em execução
+Saldo From já foi zerado
+
+Thread 611 está em execução
+Saldo From já foi zerado
+
+Thread 646 está em execução
+Saldo From já foi zerado
+
+Thread 647 está em execução
+Saldo From já foi zerado
+
+Thread 648 está em execução
+Saldo From já foi zerado
+
+Thread 649 está em execução
+Saldo From já foi zerado
+
+Thread 650 está em execução
+Saldo From já foi zerado
+
+Thread 651 está em execução
+Saldo From já foi zerado
+
+Thread 652 está em execução
+Saldo From já foi zerado
+
+Thread 653 está em execução
+Saldo From já foi zerado
+
+Thread 654 está em execução
+Saldo From já foi zerado
+
+Thread 655 está em execução
+Saldo From já foi zerado
+
+Thread 656 está em execução
+Saldo From já foi zerado
+
+Thread 657 está em execução
+Saldo From já foi zerado
+
+Thread 658 está em execução
+Saldo From já foi zerado
+
+Thread 659 está em execução
+Saldo From já foi zerado
+
+Thread 660 está em execução
+Saldo From já foi zerado
+
+Thread 661 está em execução
+Saldo From já foi zerado
+
+Thread 662 está em execução
+Saldo From já foi zerado
+
+Thread 663 está em execução
+Saldo From já foi zerado
+
+Thread 664 está em execução
+Saldo From já foi zerado
+
+Thread 665 está em execução
+Saldo From já foi zerado
+
+Thread 666 está em execução
+Saldo From já foi zerado
+
+Thread 667 está em execução
+Saldo From já foi zerado
+
+Thread 668 está em execução
+Saldo From já foi zerado
+
+Thread 669 está em execução
+Saldo From já foi zerado
+
+Thread 670 está em execução
+Saldo From já foi zerado
+
+Thread 671 está em execução
+Saldo From já foi zerado
+
+Thread 672 está em execução
+Saldo From já foi zerado
+
+Thread 673 está em execução
+Saldo From já foi zerado
+
+Thread 674 está em execução
+Saldo From já foi zerado
+
+Thread 675 está em execução
+Saldo From já foi zerado
+
+Thread 676 está em execução
+Saldo From já foi zerado
+
+Thread 677 está em execução
+Saldo From já foi zerado
+
+Thread 678 está em execução
+Saldo From já foi zerado
+
+Thread 679 está em execução
+Saldo From já foi zerado
+
+Thread 680 está em execução
+Saldo From já foi zerado
+
+Thread 681 está em execução
+Saldo From já foi zerado
+
+Thread 682 está em execução
+Saldo From já foi zerado
+
+Thread 683 está em execução
+Saldo From já foi zerado
+
+Thread 684 está em execução
+Saldo From já foi zerado
+
+Thread 685 está em execução
+Saldo From já foi zerado
+
+Thread 686 está em execução
+Saldo From já foi zerado
+
+Thread 687 está em execução
+Saldo From já foi zerado
+
+Thread 688 está em execução
+Saldo From já foi zerado
+
+Thread 610 está em execução
+Saldo From já foi zerado
+
+Thread 693 está em execução
+Saldo From já foi zerado
+
+Thread 694 está em execução
+Saldo From já foi zerado
+
+Thread 695 está em execução
+Saldo From já foi zerado
+
+Thread 696 está em execução
+Saldo From já foi zerado
+
+Thread 697 está em execução
+Saldo From já foi zerado
+
+Thread 698 está em execução
+Saldo From já foi zerado
+
+Thread 692 está em execução
+Saldo From já foi zerado
+
+Thread 699 está em execução
+Saldo From já foi zerado
+
+Thread 700 está em execução
+Saldo From já foi zerado
+
+Thread 701 está em execução
+Saldo From já foi zerado
+
+Thread 702 está em execução
+Saldo From já foi zerado
+
+Thread 703 está em execução
+Saldo From já foi zerado
+
+Thread 704 está em execução
+Saldo From já foi zerado
+
+Thread 705 está em execução
+Saldo From já foi zerado
+
+Thread 706 está em execução
+Saldo From já foi zerado
+
+Thread 707 está em execução
+Saldo From já foi zerado
+
+Thread 708 está em execução
+Saldo From já foi zerado
+
+Thread 709 está em execução
+Saldo From já foi zerado
+
+Thread 710 está em execução
+Saldo From já foi zerado
+
+Thread 711 está em execução
+Saldo From já foi zerado
+
+Thread 712 está em execução
+Saldo From já foi zerado
+
+Thread 713 está em execução
+Saldo From já foi zerado
+
+Thread 714 está em execução
+Saldo From já foi zerado
+
+Thread 715 está em execução
+Saldo From já foi zerado
+
+Thread 716 está em execução
+Saldo From já foi zerado
+
+Thread 717 está em execução
+Saldo From já foi zerado
+
+Thread 718 está em execução
+Saldo From já foi zerado
+
+Thread 719 está em execução
+Saldo From já foi zerado
+
+Thread 720 está em execução
+Saldo From já foi zerado
+
+Thread 721 está em execução
+Saldo From já foi zerado
+
+Thread 722 está em execução
+Saldo From já foi zerado
+
+Thread 723 está em execução
+Saldo From já foi zerado
+
+Thread 724 está em execução
+Saldo From já foi zerado
+
+Thread 725 está em execução
+Saldo From já foi zerado
+
+Thread 726 está em execução
+Saldo From já foi zerado
+
+Thread 727 está em execução
+Saldo From já foi zerado
+
+Thread 728 está em execução
+Saldo From já foi zerado
+
+Thread 729 está em execução
+Saldo From já foi zerado
+
+Thread 730 está em execução
+Saldo From já foi zerado
+
+Thread 731 está em execução
+Saldo From já foi zerado
+
+Thread 732 está em execução
+Saldo From já foi zerado
+
+Thread 733 está em execução
+Saldo From já foi zerado
+
+Thread 734 está em execução
+Saldo From já foi zerado
+
+Thread 735 está em execução
+Saldo From já foi zerado
+
+Thread 736 está em execução
+Saldo From já foi zerado
+
+Thread 737 está em execução
+Saldo From já foi zerado
+
+Thread 738 está em execução
+Saldo From já foi zerado
+
+Thread 739 está em execução
+Saldo From já foi zerado
+
+Thread 740 está em execução
+Saldo From já foi zerado
+
+Thread 741 está em execução
+Saldo From já foi zerado
+
+Thread 742 está em execução
+Saldo From já foi zerado
+
+Thread 743 está em execução
+Saldo From já foi zerado
+
+Thread 744 está em execução
+Saldo From já foi zerado
+
+Thread 691 está em execução
+Saldo From já foi zerado
+
+Thread 609 está em execução
+Saldo From já foi zerado
+
+Thread 690 está em execução
+Saldo From já foi zerado
+
+Thread 689 está em execução
+Saldo From já foi zerado
+
+Thread 745 está em execução
+Saldo From já foi zerado
+
+Thread 746 está em execução
+Saldo From já foi zerado
+
+Thread 747 está em execução
+Saldo From já foi zerado
+
+Thread 748 está em execução
+Saldo From já foi zerado
+
+Thread 749 está em execução
+Saldo From já foi zerado
+
+Thread 750 está em execução
+Saldo From já foi zerado
+
+Thread 751 está em execução
+Saldo From já foi zerado
+
+Thread 752 está em execução
+Saldo From já foi zerado
+
+Thread 753 está em execução
+Saldo From já foi zerado
+
+Thread 754 está em execução
+Saldo From já foi zerado
+
+Thread 755 está em execução
+Saldo From já foi zerado
+
+Thread 756 está em execução
+Saldo From já foi zerado
+
+Thread 757 está em execução
+Saldo From já foi zerado
+
+Thread 758 está em execução
+Saldo From já foi zerado
+
+Thread 759 está em execução
+Saldo From já foi zerado
+
+Thread 760 está em execução
+Saldo From já foi zerado
+
+Thread 761 está em execução
+Saldo From já foi zerado
+
+Thread 762 está em execução
+Saldo From já foi zerado
+
+Thread 763 está em execução
+Saldo From já foi zerado
+
+Thread 764 está em execução
+Saldo From já foi zerado
+
+Thread 765 está em execução
+Saldo From já foi zerado
+
+Thread 766 está em execução
+Saldo From já foi zerado
+
+Thread 767 está em execução
+Saldo From já foi zerado
+
+Thread 768 está em execução
+Saldo From já foi zerado
+
+Thread 769 está em execução
+Saldo From já foi zerado
+
+Thread 770 está em execução
+Saldo From já foi zerado
+
+Thread 771 está em execução
+Saldo From já foi zerado
+
+Thread 772 está em execução
+Saldo From já foi zerado
+
+Thread 773 está em execução
+Saldo From já foi zerado
+
+Thread 774 está em execução
+Saldo From já foi zerado
+
+Thread 775 está em execução
+Saldo From já foi zerado
+
+Thread 776 está em execução
+Saldo From já foi zerado
+
+Thread 777 está em execução
+Saldo From já foi zerado
+
+Thread 778 está em execução
+Saldo From já foi zerado
+
+Thread 779 está em execução
+Saldo From já foi zerado
+
+Thread 780 está em execução
+Saldo From já foi zerado
+
+Thread 781 está em execução
+Saldo From já foi zerado
+
+Thread 782 está em execução
+Saldo From já foi zerado
+
+Thread 783 está em execução
+Saldo From já foi zerado
+
+Thread 784 está em execução
+Saldo From já foi zerado
+
+Thread 785 está em execução
+Saldo From já foi zerado
+
+Thread 786 está em execução
+Saldo From já foi zerado
+
+Thread 787 está em execução
+Saldo From já foi zerado
+
+Thread 788 está em execução
+Saldo From já foi zerado
+
+Thread 789 está em execução
+Saldo From já foi zerado
+
+Thread 790 está em execução
+Saldo From já foi zerado
+
+Thread 791 está em execução
+Saldo From já foi zerado
+
+Thread 792 está em execução
+Saldo From já foi zerado
+
+Thread 793 está em execução
+Saldo From já foi zerado
+
+Thread 794 está em execução
+Saldo From já foi zerado
+
+Thread 795 está em execução
+Saldo From já foi zerado
+
+Thread 796 está em execução
+Saldo From já foi zerado
+
+Thread 797 está em execução
+Saldo From já foi zerado
+
+Thread 798 está em execução
+Saldo From já foi zerado
+
+Thread 799 está em execução
+Saldo From já foi zerado
+
+Thread 800 está em execução
+Saldo From já foi zerado
+
+Thread 801 está em execução
+Saldo From já foi zerado
+
+Thread 802 está em execução
+Saldo From já foi zerado
+
+Thread 803 está em execução
+Saldo From já foi zerado
+
+Thread 804 está em execução
+Saldo From já foi zerado
+
+Thread 805 está em execução
+Saldo From já foi zerado
+
+Thread 806 está em execução
+Saldo From já foi zerado
+
+Thread 807 está em execução
+Saldo From já foi zerado
+
+Thread 808 está em execução
+Saldo From já foi zerado
+
+Thread 809 está em execução
+Saldo From já foi zerado
+
+Thread 810 está em execução
+Saldo From já foi zerado
+
+Thread 811 está em execução
+Saldo From já foi zerado
+
+Thread 812 está em execução
+Saldo From já foi zerado
+
+Thread 819 está em execução
+Saldo From já foi zerado
+
+Thread 820 está em execução
+Saldo From já foi zerado
+
+Thread 821 está em execução
+Saldo From já foi zerado
+
+Thread 822 está em execução
+Saldo From já foi zerado
+
+Thread 823 está em execução
+Saldo From já foi zerado
+
+Thread 818 está em execução
+Saldo From já foi zerado
+
+Thread 824 está em execução
+Saldo From já foi zerado
+
+Thread 825 está em execução
+Saldo From já foi zerado
+
+Thread 826 está em execução
+Saldo From já foi zerado
+
+Thread 827 está em execução
+Saldo From já foi zerado
+
+Thread 828 está em execução
+Saldo From já foi zerado
+
+Thread 829 está em execução
+Saldo From já foi zerado
+
+Thread 830 está em execução
+Saldo From já foi zerado
+
+Thread 831 está em execução
+Saldo From já foi zerado
+
+Thread 817 está em execução
+Saldo From já foi zerado
+
+Thread 832 está em execução
+Saldo From já foi zerado
+
+Thread 833 está em execução
+Saldo From já foi zerado
+
+Thread 834 está em execução
+Saldo From já foi zerado
+
+Thread 835 está em execução
+Saldo From já foi zerado
+
+Thread 836 está em execução
+Saldo From já foi zerado
+
+Thread 837 está em execução
+Saldo From já foi zerado
+
+Thread 838 está em execução
+Saldo From já foi zerado
+
+Thread 839 está em execução
+Saldo From já foi zerado
+
+Thread 840 está em execução
+Saldo From já foi zerado
+
+Thread 841 está em execução
+Saldo From já foi zerado
+
+Thread 842 está em execução
+Saldo From já foi zerado
+
+Thread 843 está em execução
+Saldo From já foi zerado
+
+Thread 816 está em execução
+Saldo From já foi zerado
+
+Thread 844 está em execução
+Saldo From já foi zerado
+
+Thread 845 está em execução
+Saldo From já foi zerado
+
+Thread 846 está em execução
+Saldo From já foi zerado
+
+Thread 847 está em execução
+Saldo From já foi zerado
+
+Thread 848 está em execução
+Saldo From já foi zerado
+
+Thread 849 está em execução
+Saldo From já foi zerado
+
+Thread 850 está em execução
+Saldo From já foi zerado
+
+Thread 851 está em execução
+Saldo From já foi zerado
+
+Thread 852 está em execução
+Saldo From já foi zerado
+
+Thread 853 está em execução
+Saldo From já foi zerado
+
+Thread 854 está em execução
+Saldo From já foi zerado
+
+Thread 855 está em execução
+Saldo From já foi zerado
+
+Thread 856 está em execução
+Saldo From já foi zerado
+
+Thread 857 está em execução
+Saldo From já foi zerado
+
+Thread 858 está em execução
+Saldo From já foi zerado
+
+Thread 815 está em execução
+Saldo From já foi zerado
+
+Thread 859 está em execução
+Saldo From já foi zerado
+
+Thread 860 está em execução
+Saldo From já foi zerado
+
+Thread 861 está em execução
+Saldo From já foi zerado
+
+Thread 862 está em execução
+Saldo From já foi zerado
+
+Thread 863 está em execução
+Saldo From já foi zerado
+
+Thread 870 está em execução
+Saldo From já foi zerado
+
+Thread 868 está em execução
+Saldo From já foi zerado
+
+Thread 869 está em execução
+Saldo From já foi zerado
+
+Thread 864 está em execução
+Saldo From já foi zerado
+
+Thread 866 está em execução
+Saldo From já foi zerado
+
+Thread 872 está em execução
+Saldo From já foi zerado
+
+Thread 873 está em execução
+Saldo From já foi zerado
+
+Thread 867 está em execução
+Saldo From já foi zerado
+
+Thread 865 está em execução
+Saldo From já foi zerado
+
+Thread 871 está em execução
+Saldo From já foi zerado
+
+Thread 874 está em execução
+Saldo From já foi zerado
+
+Thread 892 está em execução
+Saldo From já foi zerado
+
+Thread 906 está em execução
+Saldo From já foi zerado
+
+Thread 888 está em execução
+Saldo From já foi zerado
+
+Thread 880 está em execução
+Saldo From já foi zerado
+
+Thread 900 está em execução
+Saldo From já foi zerado
+
+Thread 877 está em execução
+Saldo From já foi zerado
+
+Thread 884 está em execução
+Saldo From já foi zerado
+
+Thread 890 está em execução
+Saldo From já foi zerado
+
+Thread 905 está em execução
+Saldo From já foi zerado
+
+Thread 902 está em execução
+Saldo From já foi zerado
+
+Thread 893 está em execução
+Saldo From já foi zerado
+
+Thread 904 está em execução
+Saldo From já foi zerado
+
+Thread 894 está em execução
+Saldo From já foi zerado
+
+Thread 908 está em execução
+Saldo From já foi zerado
+
+Thread 898 está em execução
+Saldo From já foi zerado
+
+Thread 876 está em execução
+Saldo From já foi zerado
+
+Thread 901 está em execução
+Saldo From já foi zerado
+
+Thread 875 está em execução
+Saldo From já foi zerado
+
+Thread 882 está em execução
+Saldo From já foi zerado
+
+Thread 909 está em execução
+Saldo From já foi zerado
+
+Thread 889 está em execução
+Saldo From já foi zerado
+
+Thread 897 está em execução
+Saldo From já foi zerado
+
+Thread 885 está em execução
+Saldo From já foi zerado
+
+Thread 886 está em execução
+Saldo From já foi zerado
+
+Thread 903 está em execução
+Saldo From já foi zerado
+
+Thread 883 está em execução
+Saldo From já foi zerado
+
+Thread 907 está em execução
+Saldo From já foi zerado
+
+Thread 896 está em execução
+Saldo From já foi zerado
+
+Thread 881 está em execução
+Saldo From já foi zerado
+
+Thread 899 está em execução
+Saldo From já foi zerado
+
+Thread 878 está em execução
+Saldo From já foi zerado
+
+Thread 895 está em execução
+Saldo From já foi zerado
+
+Thread 891 está em execução
+Saldo From já foi zerado
+
+Thread 887 está em execução
+Saldo From já foi zerado
+
+Thread 879 está em execução
+Saldo From já foi zerado
+
+Thread 910 está em execução
+Saldo From já foi zerado
+
+Thread 911 está em execução
+Saldo From já foi zerado
+
+Thread 912 está em execução
+Saldo From já foi zerado
+
+Thread 913 está em execução
+Saldo From já foi zerado
+
+Thread 814 está em execução
+Saldo From já foi zerado
+
+Thread 914 está em execução
+Saldo From já foi zerado
+
+Thread 915 está em execução
+Saldo From já foi zerado
+
+Thread 919 está em execução
+Saldo From já foi zerado
+
+Thread 920 está em execução
+Saldo From já foi zerado
+
+Thread 921 está em execução
+Saldo From já foi zerado
+
+Thread 813 está em execução
+Saldo From já foi zerado
+
+Thread 922 está em execução
+Saldo From já foi zerado
+
+Thread 923 está em execução
+Saldo From já foi zerado
+
+Thread 918 está em execução
+Saldo From já foi zerado
+
+Thread 924 está em execução
+Saldo From já foi zerado
+
+Thread 925 está em execução
+Saldo From já foi zerado
+
+Thread 926 está em execução
+Saldo From já foi zerado
+
+Thread 927 está em execução
+Saldo From já foi zerado
+
+Thread 928 está em execução
+Saldo From já foi zerado
+
+Thread 929 está em execução
+Saldo From já foi zerado
+
+Thread 930 está em execução
+Saldo From já foi zerado
+
+Thread 917 está em execução
+Saldo From já foi zerado
+
+Thread 931 está em execução
+Saldo From já foi zerado
+
+Thread 932 está em execução
+Saldo From já foi zerado
+
+Thread 933 está em execução
+Saldo From já foi zerado
+
+Thread 934 está em execução
+Saldo From já foi zerado
+
+Thread 935 está em execução
+Saldo From já foi zerado
+
+Thread 936 está em execução
+Saldo From já foi zerado
+
+Thread 937 está em execução
+Saldo From já foi zerado
+
+Thread 938 está em execução
+Saldo From já foi zerado
+
+Thread 939 está em execução
+Saldo From já foi zerado
+
+Thread 940 está em execução
+Saldo From já foi zerado
+
+Thread 916 está em execução
+Saldo From já foi zerado
+
+Thread 941 está em execução
+Saldo From já foi zerado
+
+Thread 942 está em execução
+Saldo From já foi zerado
+
+Thread 943 está em execução
+Saldo From já foi zerado
+
+Thread 944 está em execução
+Saldo From já foi zerado
+
+Thread 945 está em execução
+Saldo From já foi zerado
+
+Thread 946 está em execução
+Saldo From já foi zerado
+
+Thread 947 está em execução
+Saldo From já foi zerado
+
+Thread 948 está em execução
+Saldo From já foi zerado
+
+Thread 949 está em execução
+Saldo From já foi zerado
+
+Thread 950 está em execução
+Saldo From já foi zerado
+
+Thread 951 está em execução
+Saldo From já foi zerado
+
+Thread 952 está em execução
+Saldo From já foi zerado
+
+Thread 953 está em execução
+Saldo From já foi zerado
+
+Thread 954 está em execução
+Saldo From já foi zerado
+
+Thread 955 está em execução
+Saldo From já foi zerado
+
+Thread 956 está em execução
+Saldo From já foi zerado
+
+Thread 957 está em execução
+Saldo From já foi zerado
+
+Thread 958 está em execução
+Saldo From já foi zerado
+
+Thread 959 está em execução
+Saldo From já foi zerado
+
+Thread 960 está em execução
+Saldo From já foi zerado
+
+Thread 961 está em execução
+Saldo From já foi zerado
+
+Thread 962 está em execução
+Saldo From já foi zerado
+
+Thread 963 está em execução
+Saldo From já foi zerado
+
+Thread 964 está em execução
+Saldo From já foi zerado
+
+Thread 965 está em execução
+Saldo From já foi zerado
+
+Thread 966 está em execução
+Saldo From já foi zerado
+
+Thread 967 está em execução
+Saldo From já foi zerado
+
+Thread 968 está em execução
+Saldo From já foi zerado
+
+Thread 969 está em execução
+Saldo From já foi zerado
+
+Thread 970 está em execução
+Saldo From já foi zerado
+
+Thread 971 está em execução
+Saldo From já foi zerado
+
+Thread 972 está em execução
+Saldo From já foi zerado
+
+Thread 973 está em execução
+Saldo From já foi zerado
+
+Thread 974 está em execução
+Saldo From já foi zerado
+
+Thread 975 está em execução
+Saldo From já foi zerado
+
+Thread 976 está em execução
+Saldo From já foi zerado
+
+Thread 977 está em execução
+Saldo From já foi zerado
+
+Thread 978 está em execução
+Saldo From já foi zerado
+
+Thread 979 está em execução
+Saldo From já foi zerado
+
+Thread 980 está em execução
+Saldo From já foi zerado
+
+Thread 981 está em execução
+Saldo From já foi zerado
+
+Thread 982 está em execução
+Saldo From já foi zerado
+
+Thread 983 está em execução
+Saldo From já foi zerado
+
+Thread 984 está em execução
+Saldo From já foi zerado
+
+Thread 985 está em execução
+Saldo From já foi zerado
+
+Thread 986 está em execução
+Saldo From já foi zerado
+
+Thread 993 está em execução
+Saldo From já foi zerado
+
+Thread 994 está em execução
+Saldo From já foi zerado
+
+Thread 995 está em execução
+Saldo From já foi zerado
+
+Thread 996 está em execução
+Saldo From já foi zerado
+
+Thread 997 está em execução
+Saldo From já foi zerado
+
+Thread 998 está em execução
+Saldo From já foi zerado
+
+Thread 992 está em execução
+Saldo From já foi zerado
+
+Thread 999 está em execução
+Saldo From já foi zerado
+
+Thread 991 está em execução
+Saldo From já foi zerado
+
+Thread 990 está em execução
+Saldo From já foi zerado
+
+Thread 989 está em execução
+Saldo From já foi zerado
+
+Thread 988 está em execução
+Saldo From já foi zerado
+
+Thread 987 está em execução
+Saldo From já foi zerado
+
+
+Total de transações: 180
+Total de transações from >> to: 115
+Saldo final de 'from': 0
+Saldo final de 'to': 200
