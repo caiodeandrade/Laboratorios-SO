@@ -43,3 +43,5 @@ OBS: Isso foi feito, pois a variável do número de Threads do código é um arg
 O resultado desta atividade é entender sobre como abordar um problema de concorrência. Para comprovar que nosso código foi compilado e executado no ambiente da AWS (conforme solicitado pelo professor), apresentamos a seguinte imagem:
 
 ![Screenshot_1](https://github.com/nicolasmelnik/Laboratorios-SO/assets/117850844/51321cc9-68aa-4c3c-a6f5-38d01dd2760b)
+
+Para visualizar as saídas do código, basta olhar os arquivos `log1.txt` e `log2.txt`, porque se trata de uma saida com muitas linhas, ficando ruim de mostrar em imagens. Portanto, nesses 2 arquivos é possível ver a asaída completa.
