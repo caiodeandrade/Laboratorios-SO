@@ -74,7 +74,7 @@ void *transferencia(void *rank) {
   // Seed para gerar números aleatórios diferentes em cada thread
   unsigned int seed = (unsigned int)my_rank;
 
-  // Gerar um número aleatório sendo ele 0 ou 1
+  // Gerar um número aleatório sendo ele 0 ou 9
   int numero_aleatorio = rand_r(&seed) % 10;
   
   pthread_mutex_lock(&mutex); // Dar lock no mutex
