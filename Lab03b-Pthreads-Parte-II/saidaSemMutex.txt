@@ -1,0 +1,12 @@
+Número de threads utilizadas: 1
+Valor estimado de pi: 3.14159165358977432447
+
+Número de threads utilizadas: 2
+Valor estimado de pi: 3.14159165358969216797
+
+Número de threads utilizadas: 3
+Valor estimado de pi: 3.14159365359078801561
+
+Número de threads utilizadas: 100
+Valor estimado de pi: 3.14159139043188284646
+
