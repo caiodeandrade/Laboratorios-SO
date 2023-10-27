@@ -33,10 +33,10 @@ O laboratório tem como resultado ver como o uso ou não do mutex pode influenci
 
 Para visualizar as saídas dos códigos, basta olhar os arquivos `saidaComMutex.txt` e `saidaSemMutex.txt`. Abaixo, será respondido as questões propostas pelo profesor neste laboratório.
 
-a) Implemente uma solução utilizando Mutex e compare com a anterior. O que mudou? Por quê?
+<b>a) Implemente uma solução utilizando Mutex e compare com a anterior. O que mudou? Por quê?</b>
 
 Primeiramente, antes de realizar a comparação, vamos entender a função Thread_sum. Ela é responsável por fazer o cálculo parcial dos valores da série de Taylor, que quando somados é obtido o valor aproximado de pi. Ao implementar utilizando Mutex, a variável que vai armazenar o valor parcial de pi (zona crítica) será acessada somente por um thread de cada vez, o que permite que o resultado sofra menos variação do que nó código sem o Mutex. 
 
-b) No final, entregue no README do repositório uma explicação resumida sobre as diferenças entre os valores atingidos. Quais foram as causas das divergências? Por que elas aconteceram?
+<b>b) No final, entregue no README do repositório uma explicação resumida sobre as diferenças entre os valores atingidos. Quais foram as causas das divergências? Por que elas aconteceram?</b>
 
 As diferenças entre os valores atingidos ocorre justamente pela utilização ou não do Mutex, pois sem ele, a variável responsável por armazenar o pi vai ficar sugestiva a variação, já que não se sabe qual thread vai executar primeiro. Já com o mutex, os threads acessam a zona crítica uma de cada vez, tornando o resultado menos variável, mais correto e coerente.
