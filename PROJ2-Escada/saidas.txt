@@ -1,0 +1,6 @@
+O tempo que a escada trasporta todas as pessoas é: 23. (Arquivo -> E_1)
+O tempo que a escada trasporta todas as pessoas é: 29. (Arquivo -> E_2)
+O tempo que a escada trasporta todas as pessoas é: 42. (Arquivo -> E_4)
+O tempo que a escada trasporta todas as pessoas é: 733. (Arquivo -> E_12)
+O tempo que a escada trasporta todas as pessoas é: 79390. (Arquivo -> E_24)
+O tempo que a escada trasporta todas as pessoas é: 49882. (Arquivo -> E_47)
