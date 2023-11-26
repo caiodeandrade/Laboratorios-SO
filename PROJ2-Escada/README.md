@@ -20,6 +20,26 @@ Criamos uma escada rolante dupla, a mesma escada pode subir ou descer. A seguir,
 - Nenhuma pessoa vai chegar na escada rolante dupla no momento exato em que ela está prestes a parar.
 
 ### Solução
+Tempo:
+O programa utiliza uma lógica de incremento de tempo dentro de um loop. Para o controle do fluxo, temos duas variáveis de tempo: ta (tempo atual) e to (tempo de ocupação). A variável ta é atualizada a cada itereção do loop, enquanto to só é modificado quando um valor igual a ta é lido.
+
+Leitura de valores:
+Os dados da entrada serão separados em dois vetores: vetor_direcao_0 e vetor_direcao_1. Neles, são armazenados os tempos de chegada de cada pessoa.
+
+Variáveis de controle:
+- inicio_v0 e inicio_v1: controlam qual o próximo elemento de seus respectivos vetores a entrar na escada
+- direcao_escada: armazena qual é a direção atual da escada naquele ta
+- fila: controla quantas pessoas do vetor atualmente em espera entrarão na escada
+- N: o número total de pessoas que irá passar pela escada
+- n: numero de pessoas que já passaram pela escada
+
+Lógica:
+Quando o primeiro elemento de um dos vetores de entrada for igual a ta (vetor_direcao_X[inicio_vX] == ta), verificamos as seguintes condições:
+- Ele está seguindo a mesma direção da escada: apenas incrementamos n++, inicio_vX++ e to para ta += 10
+- Ele está seguindo a direção oposta da escada: nesse caso, precisaremos verificar a concorrencia e modificar a fila. Para a concorrência, o programa verifica se o próximo elemento do vetor_vY (direção oposta ao valor lido) é igual a to. Se for, será somado 1 ao seu valor pois a prioridade vai para quem já esta na fila. Para o controle da fila, igualaremos a to todos os valores em vetor_vX (a partir de inicio_vX) que forem menores que to e incrementaremos a variável fila para saber quantas pessoas estão em espera. Dessa forma, quando a escada for liberada, eles entrarão e o n será incrementado apropriadamente.
+- A escada está parada: haverá uma verificação da fila. Caso ela esteja vazia, incrementamos 1 na fila para não quebrar a lógica. Caso ela não esteja vazia, incrementamos as variáveis de controle de maneira semelhante a quando a direção da escada é a mesma. Com a diferença sendo somente o incremento (em vez de n++ e inivio_vX++, serão += fila) e a atualização da direção da fila. Após, a fila será zerada.
+
+Quando n for igual a N, o programa encerrará o loop e printará to, que será equivalente ao tempo total necessário para a travessia de todas as pessoas
 
 ## Como Compilar
 
